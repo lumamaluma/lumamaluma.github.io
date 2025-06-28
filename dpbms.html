@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="bmstable" content="dpbms/head.json">
+    <title>Luma's Personal DP Table</title>
+    <style>
+        body {
+            background-image: url("sakura.png");
+            background-repeat: repeat;
+            background-color: #fefefe;
+            font-size: 12px;
+            padding: 20px;
+            font-family: sans-serif;
+        }
+
+        .page-wrapper {
+            max-width: 1024px;
+            margin: 0 auto;
+            padding: 0 10px; /* small side padding on mobile */
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 16px;
+        }
+
+        .info-section {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .info-section p {
+            margin: 0.5em 0;
+        }
+
+        .diffmap {
+            margin: 0 auto;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+
+        .diffmap td {
+            border: 1px solid #aaa;
+            padding: 4px 8px;
+        }
+
+        .diffmap-wrapper {
+            overflow-x: auto;
+        }
+
+        #bms-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        #bms-table th,
+        #bms-table td {
+            padding: 6px 8px;
+            border: 1px solid #aaa;
+        }
+
+        .level-header th {
+            background-color: black;
+            color: #ffeeee;
+            font-weight: bold;
+            font-size: 13px;
+            text-align: center;
+        }
+
+        a {
+            color: #0055cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+<div class="page-wrapper">
+    <h1>(=^･ω･^) Luma's Personal DP Table</h1>
+    <div class="info-section">
+        <p><b>This table is currently in an experimental state and not yet ready for general use yet.</b></p>
+        <p>Maintained by <b><a href="https://mocha-repository.info/player.php?id=2256" target="_blank">Luma</a></b>, this is a personal DP BMS practice table.</p>
+        <p>The current difficulty range starts from <b>(=^･ω･^) 0</b> and goes up to <b>(=^･ω･^) 11</b>.</p>
+        <p>Difficulty levels are based on the following mapping:</p>
+        <div class="diffmap-wrapper">
+            <table class="diffmap">
+                <tbody>
+                    <tr><td>(=^･ω･^)0</td><td>DP★★1</td></tr>
+                    <tr><td>(=^･ω･^)1</td><td>DP★★2</td></tr>
+                    <tr><td>(=^･ω･^)2</td><td>DP★★3</td></tr>
+                    <tr><td>(=^･ω･^)3</td><td>DP★★4</td></tr>
+                    <tr><td>(=^･ω･^)4</td><td>DP★★4</td></tr>
+                    <tr><td>(=^･ω･^)5</td><td>DP★★5</td></tr>
+                    <tr><td>(=^･ω･^)6</td><td>DP★★5</td></tr>
+                    <tr><td>(=^･ω･^)7</td><td>DP★★6</td></tr>
+                    <tr><td>(=^･ω･^)8</td><td>DP★★6</td></tr>
+                    <tr><td>(=^･ω･^)9</td><td>DP★★7</td></tr>
+                    <tr><td>(=^･ω･^)10</td><td>DP★★7</td></tr>
+                    <tr><td>(=^･ω･^)11</td><td>DP★★8</td></tr>
+                    <tr><td>(=^･ω･^)?</td><td>DP★★? (≥ DP★★1)</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <p>Load this page into BeMusicSeeker/GLAssist/beatoraja to use it.</p>
+    </div>
+    <table id="bms-table">
+        <colgroup>
+            <col style="width: 3%;">
+            <col style="width: 42%;">
+            <col style="width: 30%;">
+            <col style="width: 25%;">
+        </colgroup>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script src="render.js"></script>
+</body>
+</html>
