@@ -1,17 +1,23 @@
 (async () => {
     const meta = document.querySelector('meta[name="bmstable"]');
     const headerURL = meta ? meta.content : 'dpbms/head.json';
+
     const resHeader = await fetch(headerURL);
     const header = await resHeader.json();
 
     console.log("Loaded header:", header);
 
-    const resData = await fetch(header.data_url);
+    // Get base path from head.json URL
+    const baseURL = new URL(headerURL, window.location.href);
+    const basePath = baseURL.href.substring(0, baseURL.href.lastIndexOf('/') + 1);
+
+    // Resolve data_url relative to head.json's location
+    const dataURL = new URL(header.data_url, basePath);
+
+    const resData = await fetch(dataURL);
     const charts = await resData.json();
 
-    if (!Array.isArray(charts)) {
-        throw new Error('Expected chart list to be an array');
-    }
+    if (!Array.isArray(charts)) throw new Error('Expected chart list to be an array');
 
     const grouped = {};
     for (const chart of charts) {
