@@ -3761,14 +3761,6 @@
   },
   {
     "level": 11,
-    "title": "Poison AND÷OR Affection [Affection 200%]",
-    "artist": "LeaF OBJ:Fruit",
-    "comment": "DP Stella 5",
-    "md5": "96f8308d1172ec15a68b9f1b93d8fb74",
-    "url_diff": "https://drive.google.com/drive/folders/1HuheJ5wB10c34FUCPDswapgXVnBTLBZv"
-  },
-  {
-    "level": 11,
     "title": "Psalms [ユートピアとディストピアの境界]",
     "artist": "qfeileadh&レゾナンスもえこ / Limite mov:Maeus",
     "comment": "DP Stella 5",
@@ -3840,11 +3832,11 @@
     "url_diff": "https://www.limiteknj.net/BMS/"
   },
   {
-    "level": 12,
-    "title": "c.s.q.n.",
-    "artist": "Aoi",
-    "comment": "Luma chart",
-    "md5": "0595c2cd63791eaa5175de340ddc02e3",
+    "level": 11,
+    "title": "Poison AND÷OR Affection",
+    "artist": "LeaF",
+    "comment": "",
+    "md5": "41a4af566065fdf79b2020239957d25c",
     "url_diff": ""
   }
 ]
