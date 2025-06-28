@@ -240,6 +240,326 @@
     "url_diff": "http://dpbms.at-ninja.jp/insane_dpbms.html"
   },
   {
+    "level": 0,
+    "title": "#be_fortunate [DPYoitherEASY]",
+    "artist": "翡乃イスカ / obj:十六夜",
+    "comment": "DP Stella 0",
+    "md5": "ad27797ac54d934ad13ee1dcafdd329d",
+    "url_diff": "https://stellabms.xyz/upload/231"
+  },
+  {
+    "level": 0,
+    "title": "* Crow Solace * [DPA]",
+    "artist": "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
+    "comment": "DP Stella 0",
+    "md5": "51fe7ee56efa0c29890749f058679669",
+    "url_diff": "https://www.dropbox.com/s/quli82l697jr4sp/_crow_DPA_f.zip?dl=1"
+  },
+  {
+    "level": 0,
+    "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
+    "artist": "帽子屋 BGI : はしたかさん",
+    "comment": "DP Stella 0",
+    "md5": "c11998a30371142374cd158c995d9de3",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "Anti Function -DP INSANE-",
+    "artist": "Is-m BGA:ハマドメハマル",
+    "comment": "DP Stella 0",
+    "md5": "2344584fd7bc2c430ffd3a12afdfad9d",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "Chatblanc [blache]",
+    "artist": "roop Obj.Triforce vs KENIN*",
+    "comment": "DP Stella 0",
+    "md5": "5f5be91b44b0108d91c48e01b0e27c41",
+    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html"
+  },
+  {
+    "level": 0,
+    "title": "Cinderella Story -XX o'clock-",
+    "artist": "adumac / dp131 obj : 71066",
+    "comment": "DP Stella 0",
+    "md5": "2d1d397efcd45ec665c5d82b19bc3601",
+    "url_diff": "https://stellabms.xyz/upload/727"
+  },
+  {
+    "level": 0,
+    "title": "Danse de Romani",
+    "artist": "MUE / mov : Lyrebird Ferdinant obj: shiba",
+    "comment": "DP Stella 0",
+    "md5": "badd87bc03a1b5657c4f9061e3bbd083",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/998"
+  },
+  {
+    "level": 0,
+    "title": "ELIMINATOR [DP INSANE]",
+    "artist": "Cosmograph / yusi. obj. Limite",
+    "comment": "DP Stella 0",
+    "md5": "8dfba7248b732cf93d0bb5cf0e91878b",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "EXTRAPHANTASM [DP INSANE]",
+    "artist": "P4koo/ZUN Obj:ゆ～兎",
+    "comment": "DP Stella 0",
+    "md5": "889439f50329c7d90a071e6dba4a3d17",
+    "url_diff": "http://flowermaster.web.fc2.com/"
+  },
+  {
+    "level": 0,
+    "title": "FREAKOUT [14KEYS ANOTHER]",
+    "artist": "Kyuzo Sameura //obj:MIST",
+    "comment": "DP Stella 0",
+    "md5": "ea5235baeae69655cb8d81fabe2c599e",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1294"
+  },
+  {
+    "level": 0,
+    "title": "GIRIMECHALA Reflects! (Chefei)",
+    "artist": "Graviton vs kinaphar / obj:alt",
+    "comment": "DP Stella 0",
+    "md5": "f2f65790b1ff8d4fa269826c5f3c9a1f",
+    "url_diff": "https://drive.google.com/file/d/1uQ-oMLK0YqhLXEKp5mE8L_guno7cazPG/view"
+  },
+  {
+    "level": 0,
+    "title": "Gale of Viridian [POLYCHROME]",
+    "artist": "白羽 obj:ぷらむゅ",
+    "comment": "DP Stella 0",
+    "md5": "cf5c8130d58cc82e905cec652e2f67a6",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "God-free [DP-soijoy]",
+    "artist": "Zris feat. Kri & Ifeanyi / obj:sagoo",
+    "comment": "DP Stella 0",
+    "md5": "50549a4704f56c42a94fa3e93a3b49f8",
+    "url_diff": "https://uu.getuploader.com/dpbms/download/1702"
+  },
+  {
+    "level": 0,
+    "title": "L9",
+    "artist": "paraoka / Limite feat. 制限?",
+    "comment": "DP Stella 0",
+    "md5": "59084302deb34b9bd015a1abe02d6b23",
+    "url_diff": "https://www.limiteknj.net/BMS"
+  },
+  {
+    "level": 0,
+    "title": "Mandragora [Cry Out]",
+    "artist": "Columba (Daily vs Roon_kun) obj:RaiN",
+    "comment": "DP Stella 0",
+    "md5": "b117e4747a220ff1216c152f075ad409",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1334"
+  },
+  {
+    "level": 0,
+    "title": "Philadelphia Xperiment [Pennsylvania]",
+    "artist": "Xacla / obj@PEN",
+    "comment": "DP Stella 0",
+    "md5": "d3471f6236851445722f361cc3943d4c",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1271"
+  },
+  {
+    "level": 0,
+    "title": "Picaresque & Burlesque",
+    "artist": "Jeipouju",
+    "comment": "DP Stella 0",
+    "md5": "de5ff651471667816b25247fec5434b6",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "QUARTZ [BLACK ANOTHER]",
+    "artist": "YUKI",
+    "comment": "DP Stella 0",
+    "md5": "2c8ca67a2198fbb13199b970210d1b20",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "QUESTING",
+    "artist": "Nankumo / obj:lichtr",
+    "comment": "DP Stella 0",
+    "md5": "31c877e8022d80b63cc78eb42a4be921",
+    "url_diff": "http://objlr.kirara.st/"
+  },
+  {
+    "level": 0,
+    "title": "Rechronize [Real14]",
+    "artist": "あとぅす feat.咲良ゆの(obj:A-4) BGI:りーふぱいザウルス",
+    "comment": "DP Stella 0",
+    "md5": "ad1d35d18b6155aeacbfe78c7c674db2",
+    "url_diff": "https://stellabms.xyz/upload/2391"
+  },
+  {
+    "level": 0,
+    "title": "SHINKA [14KEYS ANOTHER]",
+    "artist": "atmbzk (movie : Landscaper obj : iremiha)",
+    "comment": "DP Stella 0",
+    "md5": "ed9595f5c3fe0c970b78bc1e9b0d2392",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "STAGER [ONE MORE EXTRA]",
+    "artist": "Ras obj:Hersh",
+    "comment": "DP Stella 0",
+    "md5": "40f0c8314e93ea572f5ab6e0e2a81eda",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/208"
+  },
+  {
+    "level": 0,
+    "title": "Stars Keep on Illuminating [DP Insane]",
+    "artist": "anco / Illust: かいネコ",
+    "comment": "DP Stella 0",
+    "md5": "e7c0ff5e14b93344eb93f5b3b584d827",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "Sweet Little Chocolate [DP-soijoy]",
+    "artist": "uma / obj:sagoo BGA:わっふゑ",
+    "comment": "DP Stella 0",
+    "md5": "0ba6de050ce06847b737564948b61654",
+    "url_diff": "https://stellabms.xyz/upload/1711"
+  },
+  {
+    "level": 0,
+    "title": "The sinking world [DP EXTREME 2]",
+    "artist": "Syatten obj:肴",
+    "comment": "DP Stella 0",
+    "md5": "baa218833211f71a4a589528adbe184b",
+    "url_diff": "https://onedrive.live.com/?id=778522B96494B8E3%21533&cid=778522B96494B8E3"
+  },
+  {
+    "level": 0,
+    "title": "fushigichan [DP LEGGENDARIA]",
+    "artist": "牧野 obj.にぇ",
+    "comment": "DP Stella 0",
+    "md5": "1f34b9ffc132ade5865c86c6c8297a0b",
+    "url_diff": "https://stellabms.xyz/upload/1747"
+  },
+  {
+    "level": 0,
+    "title": "myste`re　 [18keys]",
+    "artist": "HOUJIROU / BGA: hardlove obj:けろりん",
+    "comment": "DP Stella 0",
+    "md5": "b7244f66328a360a34a6d6a66028fed9",
+    "url_diff": "https://web.archive.org/web/20181108061838/http://www.geocities.jp/d_c_kick/bms/hj13-mystereMQ.zip"
+  },
+  {
+    "level": 0,
+    "title": "napaeae [14B SC]",
+    "artist": "Makou (BMS: Zris)",
+    "comment": "DP Stella 0",
+    "md5": "30f67f5707d7ecfa755db90b7417b14a",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "キマグレ☆テキトウ・ポップミュージック！ [DP ANOTHER]",
+    "artist": "CYLTIE. Vo:初音ミク",
+    "comment": "DP Stella 0",
+    "md5": "b8cfc1f35a49c30610b3e7ae54bf9ec4",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
+    "artist": "立秋 feat.ちょこ obj:Starfish",
+    "comment": "DP Stella 0",
+    "md5": "584450308e2b02b3a71a3979c16cdb4f",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/629"
+  },
+  {
+    "level": 0,
+    "title": "マッドメチャクチャニズム [DP ANOTHER]",
+    "artist": "69 de 74 BGI:れおん",
+    "comment": "DP Stella 0",
+    "md5": "17e065f48caca8af9374dc953c9b06d4",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "夏色海風 [DP-soijoy]",
+    "artist": "NASA / obj:sagoo",
+    "comment": "DP Stella 0",
+    "md5": "eefd509b03b043f14e4fe9dc72a04d8b",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1415"
+  },
+  {
+    "level": 0,
+    "title": "夢の地図と僕らの旅 [DP-soijoy]",
+    "artist": "Kuwagata feat.つゆり花鈴 / obj:sagoo",
+    "comment": "DP Stella 0",
+    "md5": "20bd4cfa18ec0b18cdff9dc57720b816",
+    "url_diff": "https://stellabms.xyz/upload/3593"
+  },
+  {
+    "level": 0,
+    "title": "少女監獄ヴァンパイアフィリア -DP ANOTHER-",
+    "artist": "LiA(obj:A-4)",
+    "comment": "DP Stella 0",
+    "md5": "23a2dc41098afccba3f4e207fa4f8bb1",
+    "url_diff": "https://drive.google.com/file/d/1twJicDqoLbjWq_JGMuYXd6Yma2RCZRpx/view"
+  },
+  {
+    "level": 0,
+    "title": "摩訶幻想マジトリク [DP INSANE]",
+    "artist": "戒 + テオン",
+    "comment": "DP Stella 0",
+    "md5": "aa389df1f9b142c58e1fd9204df74278",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "星屑アポトーシス",
+    "artist": "椎名まゆり obj: shiba",
+    "comment": "DP Stella 0",
+    "md5": "db61816ce6a0d8e08446af4d95c0c0a0",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/930"
+  },
+  {
+    "level": 0,
+    "title": "玉響サーチライト [DP INSANE]",
+    "artist": "otoshi.b × みゅい & tolz × はしたかさん & Yosk!",
+    "comment": "DP Stella 0",
+    "md5": "27a6ac517eb18cd3105be73818bc656b",
+    "url_diff": ""
+  },
+  {
+    "level": 0,
+    "title": "現実をカットアップしてみた [DPINSA.NE+]",
+    "artist": "Yu^ta/obj:LLL",
+    "comment": "DP Stella 0",
+    "md5": "dd78b0eee7d1651f383bef8978f17653",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1147"
+  },
+  {
+    "level": 0,
+    "title": "花嵐、空に溶けて [零れ桜]",
+    "artist": "DJ Raisei vs. Setca. feat. 咲良ゆの obj:nBel Movie:蒼",
+    "comment": "DP Stella 0",
+    "md5": "38e924bb5db00aa0e34218039f45194d",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1594"
+  },
+  {
+    "level": 0,
+    "title": "零廻転生",
+    "artist": "Jeipouju",
+    "comment": "DP Stella 0",
+    "md5": "8bdab5152325477c91215d7a675ca499",
+    "url_diff": ""
+  },
+  {
     "level": 1,
     "title": "架空ユリカゴ [D97%]",
     "artist": "Hate × Ritsu × Salita",
@@ -840,6 +1160,230 @@
     "url_diff": "https://www.dropbox.com/s/rm7txl7cx0rbhsv/macaron_%E2%98%8510%2C12.zip?dl=0"
   },
   {
+    "level": 2,
+    "title": "Angel dust",
+    "artist": "LV.4+-  by Spelma",
+    "comment": "DP Stella 1",
+    "md5": "b1ca95e12d38a70429a166db3e93dc9b",
+    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+  },
+  {
+    "level": 2,
+    "title": "Angel's Salad [CataStr0phE / DP譜面]",
+    "artist": "かたぎり / Limite BGA: 2nd_identity (mst×かたぎり)",
+    "comment": "DP Stella 1",
+    "md5": "aeff92e41cb89728bee5c840fd1d1541",
+    "url_diff": "https://www.limiteknj.net/BMS/"
+  },
+  {
+    "level": 2,
+    "title": "Angelic Photon [DP INSANE]",
+    "artist": "VXΛ / μyaZz obj:plum",
+    "comment": "DP Stella 1",
+    "md5": "a1e1a3904b1823e35290ca0ab7cde264",
+    "url_diff": ""
+  },
+  {
+    "level": 2,
+    "title": "Cong＊Chu＊Jelly [DP-soijoy]",
+    "artist": "otoshi.b × みゅい × はしたかさん / obj:sagoo",
+    "comment": "DP Stella 1",
+    "md5": "143c4aeb8ecf90fea57b54afef73f66b",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1345"
+  },
+  {
+    "level": 2,
+    "title": "E.V.E [peccatum]",
+    "artist": "SOMON obj. 0ne",
+    "comment": "DP Stella 1",
+    "md5": "1f5b24b0b762acd93b8b66981fef57f0",
+    "url_diff": "https://stellabms.xyz/upload/5408"
+  },
+  {
+    "level": 2,
+    "title": "Elixir [TYPE_λ.exs]",
+    "artist": "Lime / Kankitsu / obj. 1",
+    "comment": "DP Stella 1",
+    "md5": "d5ff6b40dc6cd8cf7932e24fba2fcbac",
+    "url_diff": "https://darksabun.github.io/event/bofet/"
+  },
+  {
+    "level": 2,
+    "title": "Eternal calm [同時押しの天国]",
+    "artist": "長沼浩太(パパ頑張りました) / mov:長沼浩太(ぜひ！！！！) / Limite",
+    "comment": "DP Stella 1",
+    "md5": "d5ac25254b9100bfdfc3cb0f10bdd0e5",
+    "url_diff": "https://bms.limiteknj.net/dp/"
+  },
+  {
+    "level": 2,
+    "title": "FELYS",
+    "artist": "onoken / obj:lichtr",
+    "comment": "DP Stella 1",
+    "md5": "ccfcbb50cf6bae0ff20670520fb9df98",
+    "url_diff": "http://objlr.kirara.st/"
+  },
+  {
+    "level": 2,
+    "title": "HOPE [あなたの健康を損なうおそれがあります]",
+    "artist": "Notorious(Nota & TRIAL) BGA：出前 / OBJ : Yosk!",
+    "comment": "DP Stella 1",
+    "md5": "aa165074a4954503f4a014d2a313903d",
+    "url_diff": ""
+  },
+  {
+    "level": 2,
+    "title": "Lacrimosa [DP Insane]",
+    "artist": "Abel & RiraN Movie:Minho Obj:Sound piercer \"Espitz\"",
+    "comment": "DP Stella 1",
+    "md5": "f70b61bbd663fe6056856bb83a84fd27",
+    "url_diff": ""
+  },
+  {
+    "level": 2,
+    "title": "Magus Logos [DP-soijoy]",
+    "artist": "sa10 / obj:sagoo",
+    "comment": "DP Stella 1",
+    "md5": "1fe0a55e018cb3bb2a56d507f8a55859",
+    "url_diff": "https://stellabms.xyz/upload/2761"
+  },
+  {
+    "level": 2,
+    "title": "Midnight Driving [DP hututher]",
+    "artist": "yassu / 小宮真央",
+    "comment": "DP Stella 1",
+    "md5": "d6278d20463d6399290ef692c85f1f21",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/611"
+  },
+  {
+    "level": 2,
+    "title": "RE:START [DP-soijoy]",
+    "artist": "結月ゆかり and Ark-Z / obj:sagoo",
+    "comment": "DP Stella 1",
+    "md5": "1e1c6839c85633f9d198686b98505bec",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1240"
+  },
+  {
+    "level": 2,
+    "title": "Tears of the Sunrise [DP-soijoy]",
+    "artist": "Airylic / obj:sagoo",
+    "comment": "DP Stella 1",
+    "md5": "e65e6c957a6c76eec0903f88483965a0",
+    "url_diff": "https://stellabms.xyz/upload/2404"
+  },
+  {
+    "level": 2,
+    "title": "Twin☆kle Snowglobe [DP INSANE]",
+    "artist": "翡乃イスカ × otoshi.b Illust:TOYCAT obj:Yosk!",
+    "comment": "DP Stella 1",
+    "md5": "727a209424f3b4b8bce768ddbdef3044",
+    "url_diff": ""
+  },
+  {
+    "level": 2,
+    "title": "adolescent person -Summer14-",
+    "artist": "Is-m　obj：あずさ BGA:yuru",
+    "comment": "DP Stella 1",
+    "md5": "207553f5435b069d453d7c6a96db8e36",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1589"
+  },
+  {
+    "level": 2,
+    "title": "ceu [DP MIYATHER]",
+    "artist": "Kyuzo Sameura feat. きりたん obj:plum",
+    "comment": "DP Stella 1",
+    "md5": "6dadbb815f61a7da345e01941c12fe45",
+    "url_diff": "https://1drv.ms/u/s!Aq-fFGVlbdpihRNRX-RidZ_Nh0b_?e=W3ZRlbhttps://1drv.ms/u/s!Aq-fFGVlbdpihRNRX-RidZ_Nh0b_?e=W3ZRlb"
+  },
+  {
+    "level": 2,
+    "title": "eth剣 (DP激)",
+    "artist": "BOKKEN PINK obj:ED BOKKEN DODOME+MAGENTA",
+    "comment": "DP Stella 1",
+    "md5": "a9988216fa374c97a807e1148c87a4bc",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/5"
+  },
+  {
+    "level": 2,
+    "title": "new earth -dp stella-",
+    "artist": "er obj:Yosk!",
+    "comment": "DP Stella 1",
+    "md5": "f11ba440f47e6485789b507d7ca5b450",
+    "url_diff": "https://stellabms.xyz/upload/144"
+  },
+  {
+    "level": 2,
+    "title": "orbitalgazer [DP INSANE]",
+    "artist": "qfeileadh Illust:linglvz obj.にぇ",
+    "comment": "DP Stella 1",
+    "md5": "e242a738bc1cafae55d245617289ca8c",
+    "url_diff": ""
+  },
+  {
+    "level": 2,
+    "title": "scualee [DP MIYATHER]",
+    "artist": "Aoi mov:出前 / obj:plum",
+    "comment": "DP Stella 1",
+    "md5": "396ce85dce5af32d4548a916aeff361e",
+    "url_diff": "https://stellabms.xyz/upload/4163"
+  },
+  {
+    "level": 2,
+    "title": "タマモッチ -ダイエット-",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : 71066",
+    "comment": "DP Stella 1",
+    "md5": "59bee181c697177bc186fdde396c0cc9",
+    "url_diff": "https://stellabms.xyz/upload/1616"
+  },
+  {
+    "level": 2,
+    "title": "ハードルネッサンバ -DP MID BOSS-",
+    "artist": "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj.KENIN*",
+    "comment": "DP Stella 1",
+    "md5": "cfb9622768f5b5415e6a82169266eacf",
+    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html"
+  },
+  {
+    "level": 2,
+    "title": "夜間飛行トラベラー [DP MANIAC]",
+    "artist": "qfeileadh BGA: Maeus obj.quad",
+    "comment": "DP Stella 1",
+    "md5": "37cc734cb35cc8f74fa0f36d2ae0e916",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/699"
+  },
+  {
+    "level": 2,
+    "title": "新 漢江水打令 [新COVID-19祭り/ DP譜面]",
+    "artist": "Sound piercer feat.ΣX / Limite mov.Ratif",
+    "comment": "DP Stella 1",
+    "md5": "365759761f28a29729fa0012c899ef0a",
+    "url_diff": "https://www.limiteknj.net/BMS/"
+  },
+  {
+    "level": 2,
+    "title": "櫻嬰嬰 [DP EXTRA]",
+    "artist": "Yosk!",
+    "comment": "DP Stella 1",
+    "md5": "afac99105d812beffa8de61b3f47ea51",
+    "url_diff": ""
+  },
+  {
+    "level": 2,
+    "title": "私のヒトミ",
+    "artist": "nmk feat.橘花音 obj: shiba",
+    "comment": "DP Stella 1",
+    "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1099"
+  },
+  {
+    "level": 2,
+    "title": "Poison AND��OR Affection",
+    "artist": "LeaF",
+    "comment": "",
+    "md5": "ded880508622f39ea1affb9f21772f51",
+    "url_diff": ""
+  },
+  {
     "level": 3,
     "title": "Alicia Story",
     "artist": "azu",
@@ -1160,6 +1704,22 @@
     "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
   },
   {
+    "level": 3,
+    "title": "オトゲラヴ！ {DP CHALLENGER}",
+    "artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro",
+    "comment": "",
+    "md5": "3716b4ff624e695a91e83454ed0927c7",
+    "url_diff": ""
+  },
+  {
+    "level": 3,
+    "title": "Blooming [shining smile]",
+    "artist": "Trish / obj:kuro",
+    "comment": "",
+    "md5": "63fcc3435b66462f0086122a55ca3385",
+    "url_diff": ""
+  },
+  {
     "level": 4,
     "title": "FLOATED CALM -BMS Edition- [HUMAN SEQUENCER]",
     "artist": "REX / obj:二代目IIDX16",
@@ -1182,6 +1742,14 @@
     "comment": "発狂DPBMS難度推定表 EASY 12.25",
     "md5": "5d64acd7383c09b3b3e3b65d04c7729b",
     "url_diff": "https://www.dropbox.com/s/ndeeot4rn6vi0bd/MarioPaint%E2%98%868%2C11%2C%E2%98%8512.zip?dl=0"
+  },
+  {
+    "level": 4,
+    "title": "PLASTIC GIRLS (ft. Seorryang) [swing 14]",
+    "artist": "wigen",
+    "comment": "",
+    "md5": "bab60052547db414794996cadeb48a5f",
+    "url_diff": ""
   },
   {
     "level": 5,
@@ -1648,6 +2216,110 @@
     "url_diff": "https://ux.getuploader.com/dpbms/download/353"
   },
   {
+    "level": 5,
+    "title": "5th Drop Shooter [HYBRID ULTIMATE HYPER CORE+]",
+    "artist": "原木シィタケ / obj. 0ne+ illust:原木シィタケ",
+    "comment": "DP Stella 2",
+    "md5": "066697b4ccf7ed269f4d29cc660bd345",
+    "url_diff": "https://stellabms.xyz/upload/2978"
+  },
+  {
+    "level": 5,
+    "title": "::AbnormalityPurificator:: [DP INSANE]",
+    "artist": "Shiroha BGI : Exa / obj:plum",
+    "comment": "DP Stella 2",
+    "md5": "03ee34febbb179b1ebc15cf0de53b803",
+    "url_diff": ""
+  },
+  {
+    "level": 5,
+    "title": "Across the Sky [DP Stratosphere]",
+    "artist": "Kohta Imafuku obj:nBel",
+    "comment": "DP Stella 2",
+    "md5": "3496eda04a6f1ada66ba00d7c4d0c213",
+    "url_diff": ""
+  },
+  {
+    "level": 5,
+    "title": "Azure Rays [DP MIYATHER]",
+    "artist": "SKY. obj:plum",
+    "comment": "DP Stella 2",
+    "md5": "f69d34f26811cd858eccae2d1db64cbd",
+    "url_diff": "https://1drv.ms/u/s!Aq-fFGVlbdpih2Q-1VYDH5eDAaLR?e=UWdPcQ"
+  },
+  {
+    "level": 5,
+    "title": "Berry Go!! [sweet and tiny apocalypse]",
+    "artist": "Freezer feat. 妃苺 obj: shiba",
+    "comment": "DP Stella 2",
+    "md5": "ba49b51f4e07cb03c47b78bb08164b62",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1044"
+  },
+  {
+    "level": 5,
+    "title": "Bouquet colore [Fatalism]",
+    "artist": "Nego_tiator Obj. 0ne",
+    "comment": "DP Stella 2",
+    "md5": "93d080e4b70da264f18d371169e7e20f",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1520"
+  },
+  {
+    "level": 5,
+    "title": "Critical Cannonball [DP MIYATHER]",
+    "artist": "SEPHID mov LankaNIK / obj:plum",
+    "comment": "DP Stella 2",
+    "md5": "6b0c2de562462a6b73e5a42a9841f2f4",
+    "url_diff": "https://1drv.ms/u/s!Aq-fFGVlbdpihTubgMTX30XJ8bbI?e=RCCsZJ"
+  },
+  {
+    "level": 5,
+    "title": "Fragments [DP ULTIMATE fixed]",
+    "artist": "影虎。 BMS:Qayo / BGA:FEIflick / obj.にぇ",
+    "comment": "DP Stella 2",
+    "md5": "c18c15892b9e9224f712fd41a4127545",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1418"
+  },
+  {
+    "level": 5,
+    "title": "Kaleidoscope [Eden]",
+    "artist": "Lycoris vs. Pied d'Alouette obj:nBel",
+    "comment": "DP Stella 2",
+    "md5": "7334b850f318328887f9eb932a4f7eae",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/939"
+  },
+  {
+    "level": 5,
+    "title": "N - flat waves -",
+    "artist": "er / obj:sagoo",
+    "comment": "DP Stella 2",
+    "md5": "df64bec170f75a0766971df7fb052326",
+    "url_diff": "https://stellabms.xyz/upload/2405"
+  },
+  {
+    "level": 5,
+    "title": "Time to beat the odds [DP ULTIMATE]",
+    "artist": "影虎。 BMS:Qayo/obj.にぇ BGA:yan / illust:Viosgit",
+    "comment": "DP Stella 2",
+    "md5": "31affd1c26756b6a288fd69b9fa55566",
+    "url_diff": "https://stellabms.xyz/upload/2052"
+  },
+  {
+    "level": 5,
+    "title": "suffruti",
+    "artist": "Black Lotus obj:shiba",
+    "comment": "DP Stella 2",
+    "md5": "01bd9b363a1d5c87998b077d60f96875",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/969"
+  },
+  {
+    "level": 5,
+    "title": "whence [DP FingerDance]",
+    "artist": "qfeileadh feat.kei_iwata mov:e381b5e38187e38184e38286e3818ae38186 / obj. 0ne",
+    "comment": "DP Stella 2",
+    "md5": "f2659eb48724603adf9e548ec9be5c04",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1138"
+  },
+  {
     "level": 6,
     "title": "オトゲラヴ！ {DP INFINITY-}",
     "artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。",
@@ -1702,6 +2374,22 @@
     "comment": "発狂DPBMS難度推定表 EASY 12.5",
     "md5": "d0f35c8d3614332cb53eeaf83bbba6cf",
     "url_diff": "http://o6oo9oo6o.web.fc2.com/"
+  },
+  {
+    "level": 6,
+    "title": "CYCLONE [Gravity Distorting Module]",
+    "artist": "MINT BGA : Can.D-mtmrw / obj: shiba",
+    "comment": "DP Stella 2",
+    "md5": "767177285abbedf42d833793842cc70d",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/954"
+  },
+  {
+    "level": 6,
+    "title": "DataErr0r [DP CHALLENGER]",
+    "artist": "Music : Lunatic Sounds / BGA : Photonskyto obj:kuro",
+    "comment": "",
+    "md5": "85017eb80ab753c4cc0ff0dd562da3e0",
+    "url_diff": ""
   },
   {
     "level": 7,
@@ -2038,6 +2726,102 @@
     "comment": "発狂DPBMS難度推定表 EASY 12.75",
     "md5": "9e7a50b14f605768b9bc1c086b23d162",
     "url_diff": "http://dpbms.at-ninja.jp/hokan/[ravelll]kuroneko.zip"
+  },
+  {
+    "level": 7,
+    "title": "Assault TAXI [頭文字TAXI]",
+    "artist": "∀S∀ / Limite",
+    "comment": "DP Stella 3",
+    "md5": "90355714387c892aa6a2ce1b704c52f7",
+    "url_diff": "https://bms.limiteknj.net/"
+  },
+  {
+    "level": 7,
+    "title": "DAYBREAK [DP ULTIMATE]",
+    "artist": "Lime / Kankitsu obj.nye",
+    "comment": "DP Stella 3",
+    "md5": "352c32fc9f349c71c4b730708544bdc9",
+    "url_diff": "https://stellabms.xyz/upload/3806"
+  },
+  {
+    "level": 7,
+    "title": "Dull Blade [Purgatory]",
+    "artist": "stuv / 熊猫 mov:kazari",
+    "comment": "DP Stella 3",
+    "md5": "fef9c8cc45f119fcb963ab0c5109fbf5",
+    "url_diff": "https://stellabms.xyz/upload/4480"
+  },
+  {
+    "level": 7,
+    "title": "HUGEAXE",
+    "artist": "牧野 / 熊猫",
+    "comment": "DP Stella 3",
+    "md5": "2ae5f2f6c4c9794ab9cc76cc79350184",
+    "url_diff": "https://stellabms.xyz/upload/3240"
+  },
+  {
+    "level": 7,
+    "title": "La souvenir [DPYoitherAdjust]",
+    "artist": "しーけー / obj:十六夜",
+    "comment": "DP Stella 3",
+    "md5": "a31cccc070dd4c2b3ebb1fd383c61144",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1049"
+  },
+  {
+    "level": 7,
+    "title": "Melotte 333 -MANIAC14-",
+    "artist": "sun3 / BGA:Johnny obj. 0ne",
+    "comment": "DP Stella 3",
+    "md5": "0fce20e55de1cc55921466f67f92ce9c",
+    "url_diff": "https://stellabms.xyz/upload/3033"
+  },
+  {
+    "level": 7,
+    "title": "Misdirection",
+    "artist": "enxel vs D.J.Nero obj: shiba",
+    "comment": "DP Stella 3",
+    "md5": "0f02f93656ca5eed99f361ea3f74dfc6",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/992"
+  },
+  {
+    "level": 7,
+    "title": "Ophelia",
+    "artist": "Lime / Limite",
+    "comment": "DP Stella 3",
+    "md5": "8d1461e0a5ad510ed07b99e828ab8925",
+    "url_diff": "https://www.limiteknj.net/BMS/"
+  },
+  {
+    "level": 7,
+    "title": "Save the Water",
+    "artist": "Nami Haven / Obj:128228",
+    "comment": "DP Stella 3",
+    "md5": "f8f9850f28f3f7e0d2836ee025cd19b5",
+    "url_diff": "https://stellabms.xyz/upload/1243"
+  },
+  {
+    "level": 7,
+    "title": "The Ray of Sunlight [DP-soijoy]",
+    "artist": "P*Light / obj:sagoo",
+    "comment": "DP Stella 3",
+    "md5": "9254db2ba8ada5f08bbbc55c381bd30d",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1670"
+  },
+  {
+    "level": 7,
+    "title": "テウメッサ [matrix]",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee obj.KENIN*",
+    "comment": "DP Stella 3",
+    "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",
+    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html"
+  },
+  {
+    "level": 7,
+    "title": "真火機星HOLIDAYスペシャルバトル0xFF [DP BroGamer]",
+    "artist": "潮音きつね feat. Ei (bunny rhyTHm) / obj:QB",
+    "comment": "DP Stella 3",
+    "md5": "9f72491771dd98d926a6a117376895df",
+    "url_diff": ""
   },
   {
     "level": 9,
@@ -2390,6 +3174,78 @@
     "comment": "DP Overjoy Level 7",
     "md5": "33041d9a9432b867919199e3f9ea5707",
     "url_diff": "http://www.geocities.jp/uccdpbms/index.html"
+  },
+  {
+    "level": 9,
+    "title": "AXION [OVERLORD]",
+    "artist": "Magic Mash Man / New Genuine Magicial Girl obj:RaiN",
+    "comment": "DP Stella 4",
+    "md5": "471941c902cae99a8d537853647a97ab",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1408"
+  },
+  {
+    "level": 9,
+    "title": "Empress of Raizze(14A)†leggendaria",
+    "artist": "-45 / わなな・BANI /reobj:hamburger",
+    "comment": "DP Stella 4",
+    "md5": "8989e65697b2242ea0a4add78864643d",
+    "url_diff": "https://stellabms.xyz/upload/5149"
+  },
+  {
+    "level": 9,
+    "title": "New York Back Raise [破産]",
+    "artist": "saaa + kei_iwata + stuv + わかどり / obj:sagoo BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
+    "comment": "DP Stella 4",
+    "md5": "e4cfba7814b1866f266e93d6017ce85f",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1625"
+  },
+  {
+    "level": 9,
+    "title": "REZIDUAL MiND [Farewell]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス obj:nBel",
+    "comment": "DP Stella 4",
+    "md5": "4a8472febf041508f1353df81fa987cf",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1390"
+  },
+  {
+    "level": 9,
+    "title": "Stellaria [空から同時に落ちる2555個の星]",
+    "artist": "Lime / Limite",
+    "comment": "DP Stella 4",
+    "md5": "b0e0d92a3175dab972cea7da70f58997",
+    "url_diff": "https://www.limiteknj.net/BMS/"
+  },
+  {
+    "level": 9,
+    "title": "VALLISTA [STELLA14]",
+    "artist": "削除 / Mentalstock obj : 71066",
+    "comment": "DP Stella 4",
+    "md5": "e2329462183dddaf5a3262eb0b29894d",
+    "url_diff": "https://stellabms.xyz/upload/3006"
+  },
+  {
+    "level": 9,
+    "title": "ceu",
+    "artist": "Kyuzo Sameura feat. きりたん obj:shiba",
+    "comment": "DP Stella 4",
+    "md5": "fe6b972d067924b304624443a1bab92f",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1426"
+  },
+  {
+    "level": 9,
+    "title": "ハニエルのうた [うまくなる]",
+    "artist": "sak feat.みゅい BGI:球根",
+    "comment": "DP Stella 4",
+    "md5": "684758b3aa430aa34c7cfec58200d2e8",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/498"
+  },
+  {
+    "level": 9,
+    "title": "図書室のエルザ -L'adieu-",
+    "artist": "橘花音 かなえゆめ composed by nmk Illustration:かぜっと / obj:shiba",
+    "comment": "DP Stella 4",
+    "md5": "b46e8070f6da52881e1f5de6088a9819",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1283"
   },
   {
     "level": 11,
@@ -2830,6 +3686,158 @@
     "comment": "DP Overjoy Level 8",
     "md5": "749b1af4a0864475ff380c90b71b5d00",
     "url_diff": "https://ux.getuploader.com/dpbms/download/497"
+  },
+  {
+    "level": 11,
+    "title": "Beyond [Comprehension]",
+    "artist": "Lime obj:nBel",
+    "comment": "DP Stella 5",
+    "md5": "7674cd7f1da5ac142189a4df3e18bdf0",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1109"
+  },
+  {
+    "level": 11,
+    "title": "Blue Shock [DPINSA.NE+]",
+    "artist": "Ras/obj:LLL",
+    "comment": "DP Stella 5",
+    "md5": "15cb27f3b51d398be49093ebb982d5f8",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/918"
+  },
+  {
+    "level": 11,
+    "title": "Celestial Axes [True End]",
+    "artist": "nmk / わっふゑ obj:RaiN",
+    "comment": "DP Stella 5",
+    "md5": "1e4a0688fefe60fedca9d325fcf73434",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1088"
+  },
+  {
+    "level": 11,
+    "title": "Dull Blade [HIGHWAY TO HELL]",
+    "artist": "stuv / 熊猫 mov:kazari",
+    "comment": "DP Stella 5",
+    "md5": "3806910923fc68afcee9280641c359f7",
+    "url_diff": "https://stellabms.xyz/upload/4480"
+  },
+  {
+    "level": 11,
+    "title": "FREAKOUT [14KEYS INSANE]",
+    "artist": "Kyuzo Sameura //obj:MIST",
+    "comment": "DP Stella 5",
+    "md5": "5e4de85e8f8cf8809409fd20fdce7c98",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1294"
+  },
+  {
+    "level": 11,
+    "title": "Icicle Mountain [DP -65℃]",
+    "artist": "HAROLD bgi:ume / obj:Pearl-C.",
+    "comment": "DP Stella 5",
+    "md5": "14b1dd74c437e047249eae565e711446",
+    "url_diff": ""
+  },
+  {
+    "level": 11,
+    "title": "Melotte 333 -Lambda14-",
+    "artist": "sun3 / BGA:Johnny obj. 0ne",
+    "comment": "DP Stella 5",
+    "md5": "e0fcfcd747dffafe727b16edea8c3cbd",
+    "url_diff": "https://stellabms.xyz/upload/5293"
+  },
+  {
+    "level": 11,
+    "title": "NightTheater [DPYoither]",
+    "artist": "わかどり BGA : もがみ / obj : 十六夜",
+    "comment": "DP Stella 5",
+    "md5": "3b8f8e1772061fca4a93a93aa4d99f16",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1188"
+  },
+  {
+    "level": 11,
+    "title": "Outernoid [Asterism]",
+    "artist": "Aoi feat. Airi illus:榊原またぎ obj:nBel",
+    "comment": "DP Stella 5",
+    "md5": "8181d482ea905383b5592cd90e99eb8a",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1591"
+  },
+  {
+    "level": 11,
+    "title": "Poison AND÷OR Affection [Affection 200%]",
+    "artist": "LeaF OBJ:Fruit",
+    "comment": "DP Stella 5",
+    "md5": "96f8308d1172ec15a68b9f1b93d8fb74",
+    "url_diff": "https://drive.google.com/drive/folders/1HuheJ5wB10c34FUCPDswapgXVnBTLBZv"
+  },
+  {
+    "level": 11,
+    "title": "Psalms [ユートピアとディストピアの境界]",
+    "artist": "qfeileadh&レゾナンスもえこ / Limite mov:Maeus",
+    "comment": "DP Stella 5",
+    "md5": "9525b9f36f604d3fb4ee93af8e3f9187",
+    "url_diff": "https://www.limiteknj.net/bms/"
+  },
+  {
+    "level": 11,
+    "title": "SAKIGAKE [ Build × UP！ ]",
+    "artist": "kas_0120 × 原木シィタケ BGA:かんてん / obj. Pumpkin_Man",
+    "comment": "DP Stella 5",
+    "md5": "148adf229d11174a72dcee3756f5e2d9",
+    "url_diff": "https://darksabun.github.io/event/bofet/"
+  },
+  {
+    "level": 11,
+    "title": "We are the xxxx DP F",
+    "artist": "ikaruga_nex feat. Salita obj:fruit",
+    "comment": "DP Stella 5",
+    "md5": "04f6e0ac00e0f3acad11f6cc097e26ed",
+    "url_diff": "https://drive.google.com/drive/folders/1HuheJ5wB10c34FUCPDswapgXVnBTLBZv"
+  },
+  {
+    "level": 11,
+    "title": "adolescent person -Nostalgia14-",
+    "artist": "Is-m　obj：あずさ BGA:yuru",
+    "comment": "DP Stella 5",
+    "md5": "6564d7c8dbeaff29e5c14b7aef47b82f",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1589"
+  },
+  {
+    "level": 11,
+    "title": "c.s.q.n. [Luma14]",
+    "artist": "Aoi mov:出前 obj.Luma",
+    "comment": "DP Stella 5",
+    "md5": "901b1107ba11db0363c0f6d442f5c87c",
+    "url_diff": "https://stellabms.xyz/upload/3093"
+  },
+  {
+    "level": 11,
+    "title": "lifework [片手の過負荷エラー]",
+    "artist": "ああああ / Limite BGA:アアアア",
+    "comment": "DP Stella 5",
+    "md5": "f3dc89ceb076574aef764ad351e036a1",
+    "url_diff": "https://www.limiteknj.net/BMS/"
+  },
+  {
+    "level": 11,
+    "title": "さよならコスモノート [NGC 224]",
+    "artist": "ああああ茶漬け / 熊猫",
+    "comment": "DP Stella 5",
+    "md5": "39ae77835de513e04f9e2a09724d9b2f",
+    "url_diff": "https://stellabms.xyz/upload/4389"
+  },
+  {
+    "level": 11,
+    "title": "タマモッチ -タマゴパン-",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee",
+    "comment": "DP Stella 5",
+    "md5": "574e55bdf4ad7b54003994923991c2fd",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1029"
+  },
+  {
+    "level": 11,
+    "title": "事象の地平 [平行世界：事件の終結]",
+    "artist": "wa. / Limite",
+    "comment": "DP Stella 5",
+    "md5": "59f1fed39a95e7cccf6adfb840ab0f2f",
+    "url_diff": "https://www.limiteknj.net/BMS/"
   },
   {
     "level": 12,
