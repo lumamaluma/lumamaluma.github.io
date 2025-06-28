@@ -1377,10 +1377,10 @@
   },
   {
     "level": 2,
-    "title": "Poison AND��OR Affection",
+    "title": "Poison AND÷OR Affection",
     "artist": "LeaF",
     "comment": "",
-    "md5": "ded880508622f39ea1affb9f21772f51",
+    "md5": "abcfaf4120fef2463c86c39d8ccb9a0f",
     "url_diff": ""
   },
   {
@@ -1705,18 +1705,18 @@
   },
   {
     "level": 3,
-    "title": "オトゲラヴ！ {DP CHALLENGER}",
-    "artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro",
-    "comment": "",
-    "md5": "3716b4ff624e695a91e83454ed0927c7",
-    "url_diff": ""
-  },
-  {
-    "level": 3,
     "title": "Blooming [shining smile]",
     "artist": "Trish / obj:kuro",
     "comment": "",
     "md5": "63fcc3435b66462f0086122a55ca3385",
+    "url_diff": ""
+  },
+  {
+    "level": 3,
+    "title": "オトゲラヴ！ {DP CHALLENGER}",
+    "artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro",
+    "comment": "",
+    "md5": "e725cbafd39ee96aea96f17ebed75f0b",
     "url_diff": ""
   },
   {
