@@ -38,16 +38,18 @@
         rowHead.innerHTML = `<th colspan="4">(=^･ω･^) ${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
         tbody.appendChild(rowHead);
 
-        chartsAtLevel.forEach((chart, i) => {
-            const row = document.createElement("tr");
-            row.style.backgroundColor = i % 2 === 0 ? "#ffe0e0" : "#eebdbd"; // white/gray
-            row.innerHTML = `
-        <td>${chart.level}</td>
-        <td><a href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${chart.md5}" target="_blank">${chart.title}</a></td>
-        <td>${chart.artist}</td>
-        <td>${chart.comment}</td>
-    `;
-            tbody.appendChild(row);
-        });
+        chartsAtLevel
+            .sort((a, b) => a.title.localeCompare(b.title))
+            .forEach((chart, i) => {
+                const row = document.createElement("tr");
+                row.style.backgroundColor = i % 2 === 0 ? "#ffe0e0" : "#eebdbd";
+                row.innerHTML = `
+    <td>${chart.level}</td>
+    <td><a href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${chart.md5}" target="_blank">${chart.title}</a></td>
+    <td>${chart.artist}</td>
+    <td>${chart.comment}</td>
+  `;
+                tbody.appendChild(row);
+            });
     }
 })();
