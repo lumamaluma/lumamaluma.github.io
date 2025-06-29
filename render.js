@@ -38,6 +38,16 @@
         rowHead.innerHTML = `<th colspan="4">(=^･ω･^) ${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
         tbody.appendChild(rowHead);
 
+        const colHeader = document.createElement("tr");
+        colHeader.className = "column-header";
+        colHeader.innerHTML = `
+            <th style="background-color: #ffaaaa;">Level</th>
+            <th style="background-color: #ffaaaa;">Title</th>
+            <th style="background-color: #ffaaaa;">Artist</th>
+            <th style="background-color: #ffaaaa;">Comment</th>
+        `;
+        tbody.appendChild(colHeader);
+
         chartsAtLevel
             .sort((a, b) => a.title.localeCompare(b.title))
             .forEach((chart, i) => {
