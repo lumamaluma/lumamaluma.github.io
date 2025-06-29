@@ -33,22 +33,40 @@
         return parseInt(a) - parseInt(b);
     })) {
         const chartsAtLevel = grouped[level];
+
+        // Section header row
         const rowHead = document.createElement("tr");
         rowHead.className = "level-header";
-        rowHead.innerHTML = `<th colspan="4">(=^･ω･^) ${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
+        rowHead.innerHTML = `<th colspan="6">(=^･ω･^) ${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
         tbody.appendChild(rowHead);
 
+        // Column titles
+        const colHeader = document.createElement("tr");
+        colHeader.className = "column-header";
+        colHeader.innerHTML = `
+          <th>Level</th>
+          <th>Title</th>
+          <th>Artist</th>
+          <th>Genre</th>          
+          <th>BPM</th>
+          <th>Comment</th>
+        `;
+        tbody.appendChild(colHeader);
+
+        // Song rows
         chartsAtLevel
             .sort((a, b) => a.title.localeCompare(b.title))
             .forEach((chart, i) => {
                 const row = document.createElement("tr");
                 row.style.backgroundColor = i % 2 === 0 ? "#ffe0e0" : "#eebdbd";
                 row.innerHTML = `
-    <td>${chart.level}</td>
-    <td><a href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${chart.md5}" target="_blank">${chart.title}</a></td>
-    <td>${chart.artist}</td>
-    <td>${chart.comment}</td>
-  `;
+                  <td>${chart.level}</td>
+                  <td><a href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${chart.md5}" target="_blank">${chart.title}</a></td>
+                  <td>${chart.artist || ''}</td>
+                  <td>${chart.genre || ''}</td>
+                  <td>${chart.bpm || ''}</td>
+                  <td>${chart.comment || ''}</td>
+                `;
                 tbody.appendChild(row);
             });
     }

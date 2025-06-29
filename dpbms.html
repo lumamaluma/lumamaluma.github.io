@@ -84,6 +84,24 @@
             font-size: 12px;
             color: #222;
         }
+
+        #bms-table {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: fixed; /* Enforce column widths */
+        }
+
+        #bms-table td {
+            padding: 6px 8px;
+            border: 1px solid #aaa;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        #bms-table td:nth-child(5) {
+            text-align: right;
+        }
+        
     </style>
 </head>
 <body>
@@ -120,11 +138,14 @@
     </div>
     <table id="bms-table">
         <colgroup>
-            <col style="width: 3%;">
-            <col style="width: 42%;">
-            <col style="width: 30%;">
-            <col style="width: 25%;">
+            <col style="width: 3%;">   <!-- Level -->
+            <col style="width: 30%;">  <!-- Title -->
+            <col style="width: 30%;">  <!-- Artist -->
+            <col style="width: 15%;">  <!-- Genre -->
+            <col style="width: 6%;">  <!-- BPM -->
+            <col style="width: 15%;">  <!-- Comment -->
         </colgroup>
+        <thead></thead>
         <tbody></tbody>
     </table>
 </div>
