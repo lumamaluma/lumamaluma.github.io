@@ -37,7 +37,7 @@
         // Section header row
         const rowHead = document.createElement("tr");
         rowHead.className = "level-header";
-        rowHead.innerHTML = `<th colspan="6">(=^･ω･^) ${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
+        rowHead.innerHTML = `<th colspan="6">(=^･ω･^)${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
         tbody.appendChild(rowHead);
 
         // Column titles

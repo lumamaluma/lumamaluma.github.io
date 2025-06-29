@@ -2011,16 +2011,6 @@
   },
   {
     "level": 3,
-    "title": "Trinity [DP INSANE]",
-    "artist": "TAK",
-    "comment": "★★4",
-    "md5": "b62425a02ebe01367cfdec81c221e4c2",
-    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
-    "genre": "Techno",
-    "bpm": "168"
-  },
-  {
-    "level": 3,
     "title": "YATA [DP HELL]",
     "artist": "kireji",
     "comment": "★★4",
@@ -2198,6 +2188,16 @@
     "url_diff": "http://ereter.net/",
     "genre": "trance",
     "bpm": "142"
+  },
+  {
+    "level": 4,
+    "title": "Trinity [DP INSANE]",
+    "artist": "TAK",
+    "comment": "★★4",
+    "md5": "b62425a02ebe01367cfdec81c221e4c2",
+    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+    "genre": "Techno",
+    "bpm": "168"
   },
   {
     "level": 5,
@@ -2990,6 +2990,16 @@
     "bpm": "180"
   },
   {
+    "level": 6,
+    "title": "真火機星HOLIDAYスペシャルバトル0xFF [DP BroGamer]",
+    "artist": "潮音きつね feat. Ei (bunny rhyTHm) / obj:QB",
+    "comment": "st3",
+    "md5": "9f72491771dd98d926a6a117376895df",
+    "url_diff": "",
+    "genre": "A-STYLE 255",
+    "bpm": "255"
+  },
+  {
     "level": 7,
     "title": "514nm(Kucchi☆mix) [DP Leggendaria]",
     "artist": "Another Infinity vs ZUN Remixed by くっちー",
@@ -3520,16 +3530,6 @@
     "bpm": "165"
   },
   {
-    "level": 7,
-    "title": "真火機星HOLIDAYスペシャルバトル0xFF [DP BroGamer]",
-    "artist": "潮音きつね feat. Ei (bunny rhyTHm) / obj:QB",
-    "comment": "st3",
-    "md5": "9f72491771dd98d926a6a117376895df",
-    "url_diff": "",
-    "genre": "A-STYLE 255",
-    "bpm": "255"
-  },
-  {
     "level": 9,
     "title": "-+ (dpkey)",
     "artist": "daisan",
@@ -3951,16 +3951,6 @@
   },
   {
     "level": 9,
-    "title": "ホーリーサンバランド -DP LAST BOSS-",
-    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH-",
-    "comment": "★★7",
-    "md5": "7fa7ed24c1fa19bcb86d09b5dba15b88",
-    "url_diff": "https://www.dropbox.com/s/lhed34n84wgm49j/_14key_holy_lastboss.zip?dl=0",
-    "genre": "ゆったり系アンセムトランス",
-    "bpm": "150"
-  },
-  {
-    "level": 9,
     "title": "モリオンの姫 [CH14]",
     "artist": "wa.",
     "comment": "★★7",
@@ -4058,6 +4048,16 @@
     "url_diff": "https://ux.getuploader.com/dpbms/download/1283",
     "genre": "EUROBEAT",
     "bpm": "160"
+  },
+  {
+    "level": 10,
+    "title": "ホーリーサンバランド -DP LAST BOSS-",
+    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH-",
+    "comment": "★★7",
+    "md5": "7fa7ed24c1fa19bcb86d09b5dba15b88",
+    "url_diff": "https://www.dropbox.com/s/lhed34n84wgm49j/_14key_holy_lastboss.zip?dl=0",
+    "genre": "ゆったり系アンセムトランス",
+    "bpm": "150"
   },
   {
     "level": 11,

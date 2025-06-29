@@ -202,3 +202,5 @@ append*
 test*
 md5*
 *old*
+*new*
+*.py

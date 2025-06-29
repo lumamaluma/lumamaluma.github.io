@@ -41,9 +41,12 @@
             font-size: 12px;
         }
 
+
+        .diffmap th,
         .diffmap td {
             border: 1px solid #aaa;
-            padding: 3px 6px;
+            padding: 4px 8px;
+            text-align: center;
         }
 
         .diffmap-wrapper {
@@ -134,10 +137,12 @@
             }
 
             .diffmap,
+            .diffmap th,
             .diffmap td {
                 font-size: 9px;
                 padding: 2px 4px;
             }
+
         }
 
         @media (max-width: 480px) {
@@ -162,6 +167,7 @@
             }
 
             .diffmap,
+            .diffmap th,
             .diffmap td {
                 font-size: 6px;
                 padding: 1px 2px;
@@ -174,26 +180,40 @@
     <h1>(=^･ω･^) Luma's Personal DP Table</h1>
     <div class="info-section">
         <p><b>This table is currently in an experimental state and not yet ready for general use yet.</b></p>
-        <p>Maintained by <b><a href="https://mocha-repository.info/player.php?id=2256" target="_blank">Luma</a></b>, this is a personal DP BMS practice table.</p>
+        <p>Maintained by <b><a href="https://mocha-repository.info/player.php?id=2256" target="_blank">Luma</a></b>, this is a personal DPBMS practice table.</p>
         <p>The current difficulty range starts from <b>(=^･ω･^)0</b> and goes up to <b>(=^･ω･^)11</b>.</p>
         <p>Difficulty levels are based on the following mapping:</p>
         <div class="diffmap-wrapper">
-            <table class="diffmap">
-                <tbody>
-                    <tr><td>(=^･ω･^)0</td><td>DP★★1</td></tr>
-                    <tr><td>(=^･ω･^)1</td><td>DP★★2</td></tr>
-                    <tr><td>(=^･ω･^)2</td><td>DP★★3</td></tr>
-                    <tr><td>(=^･ω･^)3</td><td rowspan="2">DP★★4</td></tr>
-                    <tr><td>(=^･ω･^)4</td></tr>
-                    <tr><td>(=^･ω･^)5</td><td rowspan="2">DP★★5</td></tr>
-                    <tr><td>(=^･ω･^)6</td></tr>
-                    <tr><td>(=^･ω･^)7</td><td rowspan="2">DP★★6</td></tr>
-                    <tr><td>(=^･ω･^)8</td></tr>
-                    <tr><td>(=^･ω･^)9</td><td rowspan="2">DP★★7</td></tr>
-                    <tr><td>(=^･ω･^)10</td></tr>
-                    <tr><td>(=^･ω･^)11</td><td>DP★★8</td></tr>
-                    <tr><td>(=^･ω･^)?</td><td>DP★★? (≥ DP★★1)</td></tr>
-                </tbody>
+                <table border="1" class="diffmap">
+                    <thead>
+                        <tr>
+                            <th>(=^･ω･^)</th>
+                            <th>DP Overjoy</th>
+                            <th>DP Stella</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>(=^･ω･^)0</td><td>DP★★1</td><td rowspan="2">DPst0</td></tr>
+                        <tr><td>(=^･ω･^)1</td><td>DP★★2</td></tr>
+
+                        <tr><td>(=^･ω･^)2</td><td>DP★★3</td><td rowspan="3">DPst1</td></tr>
+                        <tr><td>(=^･ω･^)3</td><td rowspan="2">DP★★4</td></tr>
+
+                        <tr><td>(=^･ω･^)4</td></tr>
+
+                        <tr><td>(=^･ω･^)5</td><td rowspan="2">DP★★5</td><td rowspan="2">DPst2</td></tr>
+                        <tr><td>(=^･ω･^)6</td></tr>
+
+                        <tr><td>(=^･ω･^)7</td><td rowspan="2">DP★★6</td><td rowspan="2">DPst3</td></tr>
+                        <tr><td>(=^･ω･^)8</td></tr>
+
+                        <tr><td>(=^･ω･^)9</td><td rowspan="2">DP★★7</td><td rowspan="2">DPst4</td></tr>
+                        <tr><td>(=^･ω･^)10</td></tr>
+
+                        <tr><td>(=^･ω･^)11</td><td>DP★★8</td><td>DPst5</td></tr>
+
+                        <tr><td>(=^･ω･^)?</td><td colspan="2">DP★★? (≥ DP★★1)</td></tr>
+                    </tbody>
             </table>
             <p style="text-align: center; margin-top: 8px; font-style: italic;">
                 * Further levels are yet to be supported.
@@ -219,6 +239,7 @@
 <script src="render.js"></script>
 <footer>
     <p>&copy; 2025 Luma</p>
+    <p><a href="mailto:lumawannasleep@gmail.com" target="_blank">Contact</a></p>
 </footer>
 </body>
 </html>
