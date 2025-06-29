@@ -5,8 +5,6 @@
     const resHeader = await fetch(headerURL);
     const header = await resHeader.json();
 
-    console.log("Loaded header:", header);
-
     // Get base path from head.json URL
     const baseURL = new URL(headerURL, window.location.href);
     const basePath = baseURL.href.substring(0, baseURL.href.lastIndexOf('/') + 1);
@@ -37,14 +35,15 @@
         // Section header row
         const rowHead = document.createElement("tr");
         rowHead.className = "level-header";
-        rowHead.innerHTML = `<th colspan="6">(=^･ω･^)${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
+        rowHead.innerHTML = `<th colspan="7">(=^･ω･^)${level} <span style="font-weight: normal;">(${chartsAtLevel.length} songs)</span></th>`;
         tbody.appendChild(rowHead);
 
         // Column titles
         const colHeader = document.createElement("tr");
         colHeader.className = "column-header";
         colHeader.innerHTML = `
-          <th>Level</th>
+          <th>LV</th>
+          <th>♪</th>
           <th>Title</th>
           <th>Artist</th>
           <th>Genre</th>          
@@ -61,6 +60,7 @@
                 row.style.backgroundColor = i % 2 === 0 ? "#ffe0e0" : "#eebdbd";
                 row.innerHTML = `
                   <td>${chart.level}</td>
+                  <td><a href="https://bms-score-viewer.pages.dev/view?md5=${chart.md5}" target="_blank">♪</a></td>
                   <td><a href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${chart.md5}" target="_blank">${chart.title}</a></td>
                   <td>${chart.artist || ''}</td>
                   <td>${chart.genre || ''}</td>
