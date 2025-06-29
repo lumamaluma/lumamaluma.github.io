@@ -43,7 +43,7 @@
 
         .diffmap td {
             border: 1px solid #aaa;
-            padding: 4px 8px;
+            padding: 3px 6px;
         }
 
         .diffmap-wrapper {
@@ -57,7 +57,7 @@
 
         #bms-table th,
         #bms-table td {
-            padding: 6px 8px;
+            padding: 3px 6px;
             border: 1px solid #aaa;
         }
 
@@ -88,20 +88,85 @@
         #bms-table {
             width: 100%;
             border-collapse: collapse;
-            table-layout: fixed; /* Enforce column widths */
+            table-layout: auto; /* allows natural column resizing */
         }
 
+        #bms-table th,
         #bms-table td {
-            padding: 6px 8px;
+            padding: 3px 6px;
             border: 1px solid #aaa;
-            word-wrap: break-word;
+            white-space: normal;       /* allow wrapping */
+            word-break: break-word;    /* wrap long words */
             overflow-wrap: break-word;
         }
 
         #bms-table td:nth-child(5) {
             text-align: right;
         }
-        
+
+        .column-header th {
+            background-color: #ffaeae;
+            color: #440000;
+            font-weight: bold;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            body, html {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                font-size: 9px;
+                overflow-x: hidden;
+            }
+
+            .page-wrapper {
+                padding: 8px;
+                box-sizing: border-box;
+                width: 100%;
+            }
+
+            #bms-table th,
+            #bms-table td {
+                font-size: 9px;
+                padding: 2px 4px;
+            }
+
+            .diffmap,
+            .diffmap td {
+                font-size: 9px;
+                padding: 2px 4px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body, html {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                font-size: 6px;
+                overflow-x: hidden;
+            }
+
+            .page-wrapper {
+                padding: 2px;
+                box-sizing: border-box;
+                width: 100%;
+            }
+
+            #bms-table th,
+            #bms-table td {
+                font-size: 6px;
+                padding: 1px 2px;
+            }
+
+            .diffmap,
+            .diffmap td {
+                font-size: 6px;
+                padding: 1px 2px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -136,18 +201,20 @@
         </div>
         <p>Load this page into BeMusicSeeker/beatoraja to use it.</p>
     </div>
-    <table id="bms-table">
-        <colgroup>
-            <col style="width: 3%;">   <!-- Level -->
-            <col style="width: 30%;">  <!-- Title -->
-            <col style="width: 30%;">  <!-- Artist -->
-            <col style="width: 15%;">  <!-- Genre -->
-            <col style="width: 6%;">  <!-- BPM -->
-            <col style="width: 15%;">  <!-- Comment -->
-        </colgroup>
-        <thead></thead>
-        <tbody></tbody>
-    </table>
+    <div class="table-scale-wrapper">
+        <table id="bms-table">
+            <colgroup>
+                <col style="width: 5%;">   <!-- Level -->
+                <col style="width: 30%;">  <!-- Title -->
+                <col style="width: 30%;">  <!-- Artist -->
+                <col style="width: 15%;">  <!-- Genre -->
+                <col style="width: 6%;">  <!-- BPM -->
+                <col style="width: 15%;">  <!-- Comment -->
+            </colgroup>
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </div>
 </div>
 <script src="render.js"></script>
 <footer>
