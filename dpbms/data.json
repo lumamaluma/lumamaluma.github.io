@@ -740,6 +740,56 @@
     "bpm": "147"
   },
   {
+    "level": 0,
+    "title": "年中夢中な好奇心",
+    "artist": "er",
+    "comment": "",
+    "md5": "4b7d1b156f0bd21244e6e52ab0e815d5",
+    "url_diff": "",
+    "genre": "やるきファンク",
+    "bpm": "160"
+  },
+  {
+    "level": 0,
+    "title": "桜花爛漫の墓標",
+    "artist": "Hayden",
+    "comment": "",
+    "md5": "1b47020dd01672e2f46c34180c29d638",
+    "url_diff": "",
+    "genre": "HARD DANCE",
+    "bpm": "160"
+  },
+  {
+    "level": 0,
+    "title": "Re Confront[DP CHALLNEGER]",
+    "artist": "東の恐竜 obj:kuro",
+    "comment": "",
+    "md5": "06b26f034c550c18c209500644f27ce9",
+    "url_diff": "",
+    "genre": "TRANCIDRUM'n BASS",
+    "bpm": "165"
+  },
+  {
+    "level": 0,
+    "title": "LEVEL-DOWN [Diamond and pEarl]",
+    "artist": "II-L / obj_HKB",
+    "comment": "",
+    "md5": "b45e6acb4d30cf2c150b9449c998638f",
+    "url_diff": "",
+    "genre": "PSY FOOTWORK",
+    "bpm": "170"
+  },
+  {
+    "level": 0,
+    "title": "gazer",
+    "artist": "scytheleg",
+    "comment": "",
+    "md5": "bdc0ccf60becab6c4abad8056c984dc9",
+    "url_diff": "",
+    "genre": "ELECTRANCE",
+    "bpm": "122"
+  },
+  {
     "level": 1,
     "title": "架空ユリカゴ [D97%]",
     "artist": "Hate × Ritsu × Salita",
@@ -1058,6 +1108,26 @@
     "url_diff": "https://ux.getuploader.com/dpbms/download/1207",
     "genre": "Dramatical",
     "bpm": "170"
+  },
+  {
+    "level": 1,
+    "title": "Is This Your Memory?",
+    "artist": "Cosine",
+    "comment": "",
+    "md5": "bbc2e4c19cc0224e5bffea462ff5c765",
+    "url_diff": "",
+    "genre": "Future Bass",
+    "bpm": "167"
+  },
+  {
+    "level": 1,
+    "title": "感情の摩天楼～PandoraBox [A14]",
+    "artist": "ZUN remix by 44teru-k obj:ucc",
+    "comment": "",
+    "md5": "d691ff46e0c6f11d0857cc6f18fa4c83",
+    "url_diff": "",
+    "genre": "trance core",
+    "bpm": "167"
   },
   {
     "level": 2,
