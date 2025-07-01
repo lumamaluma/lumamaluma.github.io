@@ -59,11 +59,12 @@ h1 {
     overflow-wrap: break-word;
 }
 
-#bms-table td:nth-child(2) {
+#bms-table td:nth-child(2),
+#bms-table td:nth-child(3) {
     text-align: center;
 }
 
-#bms-table td:nth-child(6) {
+#bms-table td:nth-child(7) {
     text-align: right;
 }
 
