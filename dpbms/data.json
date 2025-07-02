@@ -562,17 +562,6 @@
   },
   {
     "level": 0,
-    "title": "STAGER [ONE MORE EXTRA]",
-    "artist": "Ras obj:Hersh",
-    "comment": "st0",
-    "md5": "40f0c8314e93ea572f5ab6e0e2a81eda",
-    "sha256": "8f7d261afac10afbe896692cb070800086e8ae919f97f3f9cbd18beee562c35c",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/208",
-    "genre": "Tech electro",
-    "bpm": "146"
-  },
-  {
-    "level": 0,
     "title": "Stars Keep on Illuminating [DP Insane]",
     "artist": "anco / Illust: かいネコ",
     "comment": "st0",
@@ -1241,6 +1230,17 @@
     "url_diff": "",
     "genre": "trance core",
     "bpm": "167"
+  },
+  {
+    "level": 1,
+    "title": "STAGER [ONE MORE EXTRA]",
+    "artist": "Ras obj:Hersh",
+    "comment": "st0",
+    "md5": "40f0c8314e93ea572f5ab6e0e2a81eda",
+    "sha256": "8f7d261afac10afbe896692cb070800086e8ae919f97f3f9cbd18beee562c35c",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/208",
+    "genre": "Tech electro",
+    "bpm": "146"
   },
   {
     "level": 2,
