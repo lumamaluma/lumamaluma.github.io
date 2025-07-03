@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JPortAudio on LR2oraja for Apple Silicon Mac</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page-wrapper">
+        <div class="info-section">
+            <header>
+                <h1>JPortAudio on LR2oraja for Apple Silicon Mac</h1>
+            </header>
+            <main>
+                <p>
+                    Here are the files I used for making PortAudio work in
+                    <span class="tooltip-container">
+                        <span class="tooltip-icon">LR2oraja</span>
+                        <span class="tooltip-text">As of July 2025, vanilla beatoraja doesn't support Apple Silicon due to x86-only native libraries. Both Mocha IR and MinIR can't be used as they rely on the vanilla oraja.<br>Rosetta 2 can be used but can be buggy.</span>
+                    </span>.
+                </p>
+                <p>Use <code>-Djava.library.path=./</code> in the .command file to make it work.</p>
+                <p>Download the files from the links below:</p>
+                <p><a href="mac-oraja/nativeLibs/libjportaudio.jnilib">libjportaudio.jnilib</a></p>
+                <p><a href="mac-oraja/nativeLibs/libportaudio.dylib">libportaudio.dylib</a></p>
+                <p><a href="mac-oraja/beatoraja-config.command" >sample config file, tweak it to make your own one</a></p>
+                <h2>Other Resources</h2>
+                <p><a href="https://github.com/Catizard/lr2oraja-endlessdream/tree/macos-fix">pre-built Apple Silicon native LR2oraja</a></p>
+                <p><a href="https://github.com/zkrising/tachi-beatoraja-ir">Bokutachi (IR designed specifically for LR2oraja)</a></p>
+                <p><a href="https://bell-sw.com/pages/downloads/#jdk-17-lts">Liberica JDK 17 (download <b>Full JDK</b> to boot the game)</a></p>
+            </main>
+            <footer>
+                <hr>
+                <p><a href="index.html" target="_self"><< back</a> </p>
+                <p>&copy; 2025 Luma</p>
+                <p><a href="mailto:lumawannasleep@gmail.com" target="_blank">Contact</a></p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+body {
+    background-image: url("bg/cross.png");
+    background-repeat: repeat;
+    background-color: #fefefe;
+    font-size: 14px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.page-wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+h1 {
+    margin-bottom: 24px;
+}
+
+h2 {
+    margin-bottom: 18px;
+}
+
+a {
+    color: #ff1493 !important;
+}
+
+a:hover {
+    color: #ff69b4 !important;
+    text-decoration: underline;
+}
+
+.info-section {
+    margin-bottom: 20px;
+}
+
+.tooltip-container {
+    display: inline-block;
+    position: relative;
+    cursor: help;
+}
+
+.tooltip-icon {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.tooltip-text {
+    max-width: 500px;
+    width: max-content;
+    white-space: normal;
+    word-break: break-word;
+    visibility: hidden;
+    background-color: #333;
+    color: #fff;
+    font-size: 90%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: -370%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip-container:hover .tooltip-text {
+    visibility: visible;
+    opacity: 0.95;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    color: #222;
+}

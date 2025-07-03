@@ -1,5 +1,5 @@
 body {
-    background-image: url("sakura.png");
+    background-image: url("bg/sakura.png");
     background-repeat: repeat;
     background-color: #fefefe;
     font-size: 12px;
@@ -92,15 +92,6 @@ a:hover {
     font-weight: bold;
     font-size: 13px;
     text-align: center;
-}
-
-a {
-    color: #0055cc;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 footer {
