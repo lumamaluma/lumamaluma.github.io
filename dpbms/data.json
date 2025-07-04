@@ -463,17 +463,6 @@
   },
   {
     "level": 0,
-    "title": "The Panorama [あ！]",
-    "artist": "Junk (obj:k)",
-    "comment": "推定 11.0",
-    "md5": "b6a1cb77a4192407de45461cf5cb1065",
-    "sha256": "2f64971e500b9707a9be968980a3217ffbfc5b8b6ced9b4c04517d58596edd66",
-    "url_diff": "http://dpbms.at-ninja.jp/insane_dpbms.html",
-    "genre": "Urban Electro",
-    "bpm": "133"
-  },
-  {
-    "level": 0,
     "title": "The sinking world [DP EXTREME 2]",
     "artist": "Syatten obj:肴",
     "comment": "st0",
@@ -856,6 +845,28 @@
     "url_diff": "",
     "genre": "PALINGENESIS",
     "bpm": "193"
+  },
+  {
+    "level": 0,
+    "title": "Ever [14ANOTHER]",
+    "artist": "しらいし obj:けろりん",
+    "comment": "",
+    "md5": "1d402089a7d04ed814ea2a517ab7a629",
+    "sha256": "cfe5259e266288a3375f938f5ab5954e6d628f6b4f1108c7e8d8c1099a61f222",
+    "url_diff": "",
+    "genre": "Pops Rock",
+    "bpm": "140"
+  },
+  {
+    "level": 0,
+    "title": "Stella Story(2012 Summer End Remix)",
+    "artist": "azu remixed by s-don / azu",
+    "comment": "",
+    "md5": "4e553efc2c20277ea1f1e1e519728744",
+    "sha256": "f033a091a98d50d991c08490dd57f77b532fd408069d4ccbf6f7ef1e4c2fe97e",
+    "url_diff": "",
+    "genre": "Tech Dance/Dubstek",
+    "bpm": "142"
   },
   {
     "level": 1,
@@ -1241,6 +1252,39 @@
     "url_diff": "http://www.geocities.jp/uccdpbms/index.html",
     "genre": "Lonely",
     "bpm": "141"
+  },
+  {
+    "level": 1,
+    "title": "The Panorama [あ！]",
+    "artist": "Junk (obj:k)",
+    "comment": "推定 11.0",
+    "md5": "b6a1cb77a4192407de45461cf5cb1065",
+    "sha256": "2f64971e500b9707a9be968980a3217ffbfc5b8b6ced9b4c04517d58596edd66",
+    "url_diff": "http://dpbms.at-ninja.jp/insane_dpbms.html",
+    "genre": "Urban Electro",
+    "bpm": "133"
+  },
+  {
+    "level": 1,
+    "title": "スペクトラム (DP Another+)",
+    "artist": "エルリ鳥 obj:hoi2",
+    "comment": "",
+    "md5": "56aae5bbe9ffe497cc917e7d5ab183d2",
+    "sha256": "c3f9bcac6eb7a0bc4c0413b134e89952d657d1909debe3a0d926fdb76c0f68c0",
+    "url_diff": "",
+    "genre": "afterimage",
+    "bpm": "138"
+  },
+  {
+    "level": 1,
+    "title": "CROSSFIRE [CH14]",
+    "artist": "BOKKEN FUCHSIA",
+    "comment": "",
+    "md5": "ea4242bff8da40325c552ac89572bbfa",
+    "sha256": "08b7b44b6f47714f403917e2c6da81e0e601efed5267f1e95e2c6f539286a4e9",
+    "url_diff": "",
+    "genre": "HYBRIDIZE PSYBOKKEN",
+    "bpm": "147"
   },
   {
     "level": 10,
