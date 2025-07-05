@@ -243,17 +243,6 @@
   },
   {
     "level": 0,
-    "title": "M31-BMS EDIT- Galaxy",
-    "artist": "CHAN obj:Lilium",
-    "comment": "★11",
-    "md5": "473992b28238d9c318561322c8ed7b9f",
-    "sha256": "ce6aea8a7114ad81e2ec21d64331469031e3b0518ce3d89b28aab59f72f33ccc",
-    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
-    "genre": "NIGHT HOUSE",
-    "bpm": "128"
-  },
-  {
-    "level": 0,
     "title": "Mandragora [Cry Out]",
     "artist": "Columba (Daily vs Roon_kun) obj:RaiN",
     "comment": "st0",
@@ -1340,6 +1329,17 @@
     "url_diff": "",
     "genre": "PROGRESSIVE FUSION",
     "bpm": "134"
+  },
+  {
+    "level": 1,
+    "title": "M31-BMS EDIT- Galaxy",
+    "artist": "CHAN obj:Lilium",
+    "comment": "★11",
+    "md5": "473992b28238d9c318561322c8ed7b9f",
+    "sha256": "ce6aea8a7114ad81e2ec21d64331469031e3b0518ce3d89b28aab59f72f33ccc",
+    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+    "genre": "NIGHT HOUSE",
+    "bpm": "128"
   },
   {
     "level": 2,
