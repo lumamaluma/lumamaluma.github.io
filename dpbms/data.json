@@ -869,6 +869,50 @@
     "bpm": "193"
   },
   {
+    "level": 0,
+    "title": "Turndup[DP Another]",
+    "artist": "Iriss-Frantzz",
+    "comment": "",
+    "md5": "5443ad1dace97111fc9eaf8b0a4768f6",
+    "sha256": "a7edbeb3867be3787621f3dc53239c793d5c6c4da85aaf31d702d85de24048b2",
+    "url_diff": "",
+    "genre": "Defiant",
+    "bpm": "155"
+  },
+  {
+    "level": 0,
+    "title": "High-riser [DP TECHNICAL]",
+    "artist": "sa10 obj:けろりん",
+    "comment": "",
+    "md5": "3a82bf9cc3f2a45e8c14df8f4bfe2080",
+    "sha256": "f86eb7ca2405f23c2482b11cec65a1a04ff4ff1a0621362369e2437a7dc2746d",
+    "url_diff": "",
+    "genre": "TECHNO",
+    "bpm": "156"
+  },
+  {
+    "level": 0,
+    "title": "",
+    "artist": "",
+    "comment": "",
+    "md5": "f3cc35108bd618ff4bed1f0c72ddd913",
+    "sha256": "652b9843d56fdca41e9e40524b591b110d284a3576d6915057c249d217f9bf76",
+    "url_diff": "",
+    "genre": "",
+    "bpm": ""
+  },
+  {
+    "level": 0,
+    "title": "Dove [Bittersweet]",
+    "artist": "Sound piercer & Puru feat.Emma J.",
+    "comment": "",
+    "md5": "7d3b853b776af1950d3382f376128f5f",
+    "sha256": "afcb59541cc1c7d396a226110a77ab4273d6e12c0b3fc32fc7ae14fdbeb7517d",
+    "url_diff": "",
+    "genre": "R&B",
+    "bpm": "128"
+  },
+  {
     "level": 1,
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P A ]",
     "artist": "- 4 5 obj:肴",
@@ -1285,6 +1329,17 @@
     "url_diff": "http://www.geocities.jp/uccdpbms/index.html",
     "genre": "Lonely",
     "bpm": "141"
+  },
+  {
+    "level": 1,
+    "title": "last:wish [DP CHALLENGER]",
+    "artist": "かゆき obj:kuro",
+    "comment": "",
+    "md5": "d24dd7ba8601e86108306f263a92be5e",
+    "sha256": "c0b02715970dc91c2814a7be43000a19cd5a0f1b479e8186b4a18655627eb2ff",
+    "url_diff": "",
+    "genre": "PROGRESSIVE FUSION",
+    "bpm": "134"
   },
   {
     "level": 2,
@@ -2066,6 +2121,17 @@
     "url_diff": "",
     "genre": "Oriental Dance Music",
     "bpm": "100"
+  },
+  {
+    "level": 2,
+    "title": "どむ虐 (Parasitize mix) [DPGA]",
+    "artist": "おめめいぬ愛護団体/obj:G#",
+    "comment": "",
+    "md5": "fa2c370f169c04728c67f17fcabe6157",
+    "sha256": "87241a2d021f872caa9a583b73eebe19b327edbba4175668d0aa839cdd5386db",
+    "url_diff": "",
+    "genre": "非日常系",
+    "bpm": "118"
   },
   {
     "level": 3,
