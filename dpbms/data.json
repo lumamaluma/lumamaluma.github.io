@@ -12,17 +12,6 @@
   },
   {
     "level": 0,
-    "title": "* Crow Solace * [DPA]",
-    "artist": "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
-    "comment": "st0",
-    "md5": "51fe7ee56efa0c29890749f058679669",
-    "sha256": "eb583606e4df53c7d5e113f6fb8d672901859947761972fbc110bc36ec9454ad",
-    "url_diff": "https://www.dropbox.com/s/quli82l697jr4sp/_crow_DPA_f.zip?dl=1",
-    "genre": "EPIC TRANCECORE",
-    "bpm": "188"
-  },
-  {
-    "level": 0,
     "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
     "artist": "帽子屋 BGI : はしたかさん",
     "comment": "st0",
@@ -56,28 +45,6 @@
   },
   {
     "level": 0,
-    "title": "Blacksphere [DP Insane]",
-    "artist": "Iriss-Frantzz / obj:nabisco",
-    "comment": "推定 11.0",
-    "md5": "eaa222ebd73eecab6e859820fa540cba",
-    "sha256": "05ceb0c4808c86ee0f986752492f5bc74a6ae40d6b7785eb3b72e66a9cf1f1f4",
-    "url_diff": "http://ux.getuploader.com/dpbms/download/90/_blacksphere_DPnabi.bms",
-    "genre": "Connection",
-    "bpm": "150"
-  },
-  {
-    "level": 0,
-    "title": "Chatblanc [blache]",
-    "artist": "roop Obj.Triforce vs KENIN*",
-    "comment": "st0",
-    "md5": "5f5be91b44b0108d91c48e01b0e27c41",
-    "sha256": "50d869b82a4db6a36b6d82dc25e34b867c1c667d269f1972be95af7a5e77b479",
-    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html",
-    "genre": "HOUSE",
-    "bpm": "126"
-  },
-  {
-    "level": 0,
     "title": "Cinderella Story -XX o'clock-",
     "artist": "adumac / dp131 obj : 71066",
     "comment": "st0",
@@ -97,6 +64,17 @@
     "url_diff": "https://ux.getuploader.com/dpbms/download/998",
     "genre": "Ethnic House",
     "bpm": "140"
+  },
+  {
+    "level": 0,
+    "title": "Dove [Bittersweet]",
+    "artist": "Sound piercer & Puru feat.Emma J.",
+    "comment": "",
+    "md5": "7d3b853b776af1950d3382f376128f5f",
+    "sha256": "afcb59541cc1c7d396a226110a77ab4273d6e12c0b3fc32fc7ae14fdbeb7517d",
+    "url_diff": "",
+    "genre": "R&B",
+    "bpm": "128"
   },
   {
     "level": 0,
@@ -177,6 +155,17 @@
   },
   {
     "level": 0,
+    "title": "High-riser [DP TECHNICAL]",
+    "artist": "sa10 obj:けろりん",
+    "comment": "",
+    "md5": "3a82bf9cc3f2a45e8c14df8f4bfe2080",
+    "sha256": "f86eb7ca2405f23c2482b11cec65a1a04ff4ff1a0621362369e2437a7dc2746d",
+    "url_diff": "",
+    "genre": "TECHNO",
+    "bpm": "156"
+  },
+  {
+    "level": 0,
     "title": "Idealized Land [お、おう…]",
     "artist": "えば vs. void",
     "comment": "★★1",
@@ -207,17 +196,6 @@
     "url_diff": "https://onedrive.live.com/?authkey=%21AEhUFcPk44lHNWU&id=252E1BC75208EE14%21454&cid=252E1BC75208EE14",
     "genre": "Overture",
     "bpm": "160"
-  },
-  {
-    "level": 0,
-    "title": "L9",
-    "artist": "paraoka / Limite feat. 制限?",
-    "comment": "st0",
-    "md5": "59084302deb34b9bd015a1abe02d6b23",
-    "sha256": "a9d2652c36e8956534853b47e2bcb16c1e832eb7886695b63dedd39138a8ffd6",
-    "url_diff": "https://www.limiteknj.net/BMS",
-    "genre": "progressive",
-    "bpm": "123"
   },
   {
     "level": 0,
@@ -273,17 +251,6 @@
     "url_diff": "http://dpbms.at-ninja.jp/dpbms.html",
     "genre": "Classical Trance",
     "bpm": "163"
-  },
-  {
-    "level": 0,
-    "title": "Papillon [Blue Admiral 14]",
-    "artist": "Symphonian / Personality [obj:mymt]",
-    "comment": "推定 11.0",
-    "md5": "6a361e5fd778c4fdde560dad7c2681ca",
-    "sha256": "39c6a5de558e1ea510db487939a66bd68817c27b3d01dcbd82334dc1d1f49262",
-    "url_diff": "http://objmgnvsmymt.web.fc2.com/sabun.html",
-    "genre": "Full On",
-    "bpm": "150"
   },
   {
     "level": 0,
@@ -474,14 +441,14 @@
   },
   {
     "level": 0,
-    "title": "The sinking world [DP EXTREME 2]",
-    "artist": "Syatten obj:肴",
-    "comment": "st0",
-    "md5": "baa218833211f71a4a589528adbe184b",
-    "sha256": "51dd6d99698340db39a351ea57c309571cafa58a89f9f8f25c589257ca34d0c2",
-    "url_diff": "https://onedrive.live.com/?id=778522B96494B8E3%21533&cid=778522B96494B8E3",
-    "genre": "Instrumental",
-    "bpm": "96"
+    "title": "Turndup[DP Another]",
+    "artist": "Iriss-Frantzz",
+    "comment": "",
+    "md5": "5443ad1dace97111fc9eaf8b0a4768f6",
+    "sha256": "a7edbeb3867be3787621f3dc53239c793d5c6c4da85aaf31d702d85de24048b2",
+    "url_diff": "",
+    "genre": "Defiant",
+    "bpm": "155"
   },
   {
     "level": 0,
@@ -526,6 +493,17 @@
     "url_diff": "http://objlr.kirara.st/",
     "genre": "",
     "bpm": "166"
+  },
+  {
+    "level": 0,
+    "title": "eth剣 [DUALCORE]",
+    "artist": "BOKKEN PINK BOKKEN DODOME+MAGENTA",
+    "comment": "",
+    "md5": "f3cc35108bd618ff4bed1f0c72ddd913",
+    "sha256": "652b9843d56fdca41e9e40524b591b110d284a3576d6915057c249d217f9bf76",
+    "url_diff": "",
+    "genre": "BOKKEN FUSION",
+    "bpm": "126"
   },
   {
     "level": 0,
@@ -858,48 +836,15 @@
     "bpm": "193"
   },
   {
-    "level": 0,
-    "title": "Turndup[DP Another]",
-    "artist": "Iriss-Frantzz",
-    "comment": "",
-    "md5": "5443ad1dace97111fc9eaf8b0a4768f6",
-    "sha256": "a7edbeb3867be3787621f3dc53239c793d5c6c4da85aaf31d702d85de24048b2",
-    "url_diff": "",
-    "genre": "Defiant",
-    "bpm": "155"
-  },
-  {
-    "level": 0,
-    "title": "High-riser [DP TECHNICAL]",
-    "artist": "sa10 obj:けろりん",
-    "comment": "",
-    "md5": "3a82bf9cc3f2a45e8c14df8f4bfe2080",
-    "sha256": "f86eb7ca2405f23c2482b11cec65a1a04ff4ff1a0621362369e2437a7dc2746d",
-    "url_diff": "",
-    "genre": "TECHNO",
-    "bpm": "156"
-  },
-  {
-    "level": 0,
-    "title": "",
-    "artist": "",
-    "comment": "",
-    "md5": "f3cc35108bd618ff4bed1f0c72ddd913",
-    "sha256": "652b9843d56fdca41e9e40524b591b110d284a3576d6915057c249d217f9bf76",
-    "url_diff": "",
-    "genre": "",
-    "bpm": ""
-  },
-  {
-    "level": 0,
-    "title": "Dove [Bittersweet]",
-    "artist": "Sound piercer & Puru feat.Emma J.",
-    "comment": "",
-    "md5": "7d3b853b776af1950d3382f376128f5f",
-    "sha256": "afcb59541cc1c7d396a226110a77ab4273d6e12c0b3fc32fc7ae14fdbeb7517d",
-    "url_diff": "",
-    "genre": "R&B",
-    "bpm": "128"
+    "level": 1,
+    "title": "* Crow Solace * [DPA]",
+    "artist": "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
+    "comment": "st0",
+    "md5": "51fe7ee56efa0c29890749f058679669",
+    "sha256": "eb583606e4df53c7d5e113f6fb8d672901859947761972fbc110bc36ec9454ad",
+    "url_diff": "https://www.dropbox.com/s/quli82l697jr4sp/_crow_DPA_f.zip?dl=1",
+    "genre": "EPIC TRANCECORE",
+    "bpm": "188"
   },
   {
     "level": 0,
@@ -969,6 +914,17 @@
   },
   {
     "level": 1,
+    "title": "Blacksphere [DP Insane]",
+    "artist": "Iriss-Frantzz / obj:nabisco",
+    "comment": "推定 11.0",
+    "md5": "eaa222ebd73eecab6e859820fa540cba",
+    "sha256": "05ceb0c4808c86ee0f986752492f5bc74a6ae40d6b7785eb3b72e66a9cf1f1f4",
+    "url_diff": "http://ux.getuploader.com/dpbms/download/90/_blacksphere_DPnabi.bms",
+    "genre": "Connection",
+    "bpm": "150"
+  },
+  {
+    "level": 1,
     "title": "CROSSFIRE [CH14]",
     "artist": "BOKKEN FUCHSIA",
     "comment": "",
@@ -977,6 +933,17 @@
     "url_diff": "",
     "genre": "HYBRIDIZE PSYBOKKEN",
     "bpm": "147"
+  },
+  {
+    "level": 1,
+    "title": "Chatblanc [blache]",
+    "artist": "roop Obj.Triforce vs KENIN*",
+    "comment": "st0",
+    "md5": "5f5be91b44b0108d91c48e01b0e27c41",
+    "sha256": "50d869b82a4db6a36b6d82dc25e34b867c1c667d269f1972be95af7a5e77b479",
+    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html",
+    "genre": "HOUSE",
+    "bpm": "126"
   },
   {
     "level": 1,
@@ -1068,6 +1035,28 @@
   },
   {
     "level": 1,
+    "title": "L9",
+    "artist": "paraoka / Limite feat. 制限?",
+    "comment": "st0",
+    "md5": "59084302deb34b9bd015a1abe02d6b23",
+    "sha256": "a9d2652c36e8956534853b47e2bcb16c1e832eb7886695b63dedd39138a8ffd6",
+    "url_diff": "https://www.limiteknj.net/BMS",
+    "genre": "progressive",
+    "bpm": "123"
+  },
+  {
+    "level": 1,
+    "title": "M31-BMS EDIT- Galaxy",
+    "artist": "CHAN obj:Lilium",
+    "comment": "★11",
+    "md5": "473992b28238d9c318561322c8ed7b9f",
+    "sha256": "ce6aea8a7114ad81e2ec21d64331469031e3b0518ce3d89b28aab59f72f33ccc",
+    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+    "genre": "NIGHT HOUSE",
+    "bpm": "128"
+  },
+  {
+    "level": 1,
     "title": "MANIERA (KOOKY)",
     "artist": "D",
     "comment": "★★2",
@@ -1087,6 +1076,17 @@
     "url_diff": "https://isopod.web.fc2.com/BMS/dp.html",
     "genre": "Akiba Pop",
     "bpm": "155"
+  },
+  {
+    "level": 1,
+    "title": "Papillon [Blue Admiral 14]",
+    "artist": "Symphonian / Personality [obj:mymt]",
+    "comment": "推定 11.0",
+    "md5": "6a361e5fd778c4fdde560dad7c2681ca",
+    "sha256": "39c6a5de558e1ea510db487939a66bd68817c27b3d01dcbd82334dc1d1f49262",
+    "url_diff": "http://objmgnvsmymt.web.fc2.com/sabun.html",
+    "genre": "Full On",
+    "bpm": "150"
   },
   {
     "level": 1,
@@ -1131,6 +1131,17 @@
     "url_diff": "http://dpbms.at-ninja.jp/insane_dpbms.html",
     "genre": "Urban Electro",
     "bpm": "133"
+  },
+  {
+    "level": 1,
+    "title": "The sinking world [DP EXTREME 2]",
+    "artist": "Syatten obj:肴",
+    "comment": "st0",
+    "md5": "baa218833211f71a4a589528adbe184b",
+    "sha256": "51dd6d99698340db39a351ea57c309571cafa58a89f9f8f25c589257ca34d0c2",
+    "url_diff": "https://onedrive.live.com/?id=778522B96494B8E3%21533&cid=778522B96494B8E3",
+    "genre": "Instrumental",
+    "bpm": "96"
   },
   {
     "level": 1,
@@ -1197,6 +1208,17 @@
     "url_diff": "http://dpbms.at-ninja.jp/",
     "genre": "Techno",
     "bpm": "138"
+  },
+  {
+    "level": 1,
+    "title": "last:wish [DP CHALLENGER]",
+    "artist": "かゆき obj:kuro",
+    "comment": "",
+    "md5": "d24dd7ba8601e86108306f263a92be5e",
+    "sha256": "c0b02715970dc91c2814a7be43000a19cd5a0f1b479e8186b4a18655627eb2ff",
+    "url_diff": "",
+    "genre": "PROGRESSIVE FUSION",
+    "bpm": "134"
   },
   {
     "level": 1,
@@ -1362,61 +1384,6 @@
     "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
     "genre": "NIGHT HOUSE",
     "bpm": "128"
-  },
-  {
-    "level": 1,
-    "title": "night starter DP Another+",
-    "artist": "ken",
-    "comment": "",
-    "md5": "1dd813c720758ba91a42433cdac4dde1",
-    "sha256": "eafa49fd9a6e1ed4a9d239eb298c880df1ce80044c73e0ebcc4c888004395d0b",
-    "url_diff": "",
-    "genre": "Digi rock",
-    "bpm": "149"
-  },
-  {
-    "level": 1,
-    "title": "白き星姫-Принцесса белая звезда-[CHALLENGER]",
-    "artist": "おみー obj:kuro",
-    "comment": "",
-    "md5": "7a05b64bd8707b6ad9dab486f363ce17",
-    "sha256": "e51e01354d9e9a750fcc5084195543b4b482b811dd62261b52f0457ee7e6e0aa",
-    "url_diff": "",
-    "genre": "INTELLIGENCE TRANCE",
-    "bpm": "155"
-  },
-  {
-    "level": 1,
-    "title": "J2U(crazy remix)[DP INSANE]",
-    "artist": "しろ / whenya",
-    "comment": "",
-    "md5": "205d3d5f4dfed426cb575eedbfadff1a",
-    "sha256": "9500edd7db9c1647b3b9326f6e4eeb3b46f8283c23a6bc65ee7d701bf87d1794",
-    "url_diff": "",
-    "genre": "j-euro",
-    "bpm": "158"
-  },
-  {
-    "level": 1,
-    "title": "VY Canis Majoris [Rustin's DP Hyper]",
-    "artist": "戒斗 Rustin",
-    "comment": "",
-    "md5": "38a75166c1ea363fd0f2f521dba979d6",
-    "sha256": "c2dadbf5807129dfc8f8d8b3fd63c538d379e8b6bbf34ed86a3d7d6ee57f4e15",
-    "url_diff": "",
-    "genre": "プラネットランス",
-    "bpm": "158"
-  },
-  {
-    "level": 1,
-    "title": "AXION [Emperor]",
-    "artist": "Magic Mash Man / New Genuine Magicial Girl / obj:ucc",
-    "comment": "",
-    "md5": "7aae43c80525dce07666f38b8dc993bd",
-    "sha256": "278a5b6d0920d5fadfd7e24a3f52fcd98255d6a78318a195b76b955350366c97",
-    "url_diff": "",
-    "genre": "Chaos fantasia",
-    "bpm": "160"
   },
   {
     "level": 2,
@@ -2047,6 +2014,17 @@
   },
   {
     "level": 2,
+    "title": "どむ虐 (Parasitize mix) [DPGA]",
+    "artist": "おめめいぬ愛護団体/obj:G#",
+    "comment": "",
+    "md5": "fa2c370f169c04728c67f17fcabe6157",
+    "sha256": "87241a2d021f872caa9a583b73eebe19b327edbba4175668d0aa839cdd5386db",
+    "url_diff": "",
+    "genre": "非日常系",
+    "bpm": "118"
+  },
+  {
+    "level": 2,
     "title": "タマモッチ -ダイエット-",
     "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : 71066",
     "comment": "st1",
@@ -2055,17 +2033,6 @@
     "url_diff": "https://stellabms.xyz/upload/1616",
     "genre": "TECHNO CROOK[DP BOSS]",
     "bpm": "165"
-  },
-  {
-    "level": 2,
-    "title": "ハードルネッサンバ -DP MID BOSS-",
-    "artist": "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj.KENIN*",
-    "comment": "st1",
-    "md5": "cfb9622768f5b5415e6a82169266eacf",
-    "sha256": "e4483bcf9bcd09f5ac489070ed12d0b17953d4d8c3b78a8abb44bc5801401d2d",
-    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html",
-    "genre": "ゆったり系失楽園",
-    "bpm": "162"
   },
   {
     "level": 2,
@@ -2110,17 +2077,6 @@
     "url_diff": "http://epics.client.jp/",
     "genre": "HAPPY HARDCORE",
     "bpm": "191"
-  },
-  {
-    "level": 2,
-    "title": "私のヒトミ",
-    "artist": "nmk feat.橘花音 obj: shiba",
-    "comment": "st1",
-    "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",
-    "sha256": "3a4b41faea5543a804894828dd50e3c18d7ed37c8c5038d8aade2d44b6cbd2bb",
-    "url_diff": "https://ux.getuploader.com/dpbms/download/1099",
-    "genre": "EUROBEAT",
-    "bpm": "150"
   },
   {
     "level": 2,
@@ -2198,17 +2154,6 @@
     "url_diff": "",
     "genre": "Oriental Dance Music",
     "bpm": "100"
-  },
-  {
-    "level": 2,
-    "title": "どむ虐 (Parasitize mix) [DPGA]",
-    "artist": "おめめいぬ愛護団体/obj:G#",
-    "comment": "",
-    "md5": "fa2c370f169c04728c67f17fcabe6157",
-    "sha256": "87241a2d021f872caa9a583b73eebe19b327edbba4175668d0aa839cdd5386db",
-    "url_diff": "",
-    "genre": "非日常系",
-    "bpm": "118"
   },
   {
     "level": 3,
@@ -2498,6 +2443,17 @@
   },
   {
     "level": 3,
+    "title": "ハードルネッサンバ -DP MID BOSS-",
+    "artist": "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj.KENIN*",
+    "comment": "st1",
+    "md5": "cfb9622768f5b5415e6a82169266eacf",
+    "sha256": "e4483bcf9bcd09f5ac489070ed12d0b17953d4d8c3b78a8abb44bc5801401d2d",
+    "url_diff": "http://sunaneko.iptime.org/dpsabun_kenin.html",
+    "genre": "ゆったり系失楽園",
+    "bpm": "162"
+  },
+  {
+    "level": 3,
     "title": "紅染十三番街道　 [あ！]",
     "artist": "L_Z",
     "comment": "★★4",
@@ -2506,6 +2462,17 @@
     "url_diff": "http://dpbms.at-ninja.jp/",
     "genre": "丑三ツノ刻",
     "bpm": "160"
+  },
+  {
+    "level": 3,
+    "title": "私のヒトミ",
+    "artist": "nmk feat.橘花音 obj: shiba",
+    "comment": "st1",
+    "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",
+    "sha256": "3a4b41faea5543a804894828dd50e3c18d7ed37c8c5038d8aade2d44b6cbd2bb",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/1099",
+    "genre": "EUROBEAT",
+    "bpm": "150"
   },
   {
     "level": 3,
@@ -3554,6 +3521,17 @@
   },
   {
     "level": 6,
+    "title": "黒猫円舞曲 [Heine14]",
+    "artist": "tarolabo#obj.e",
+    "comment": "推定 12.75",
+    "md5": "9e7a50b14f605768b9bc1c086b23d162",
+    "sha256": "6296251bf3e55b5125eecb36084ad7dd2d5031bb17ce2f05e32a96e6c7e66ab2",
+    "url_diff": "http://dpbms.at-ninja.jp/hokan/[ravelll]kuroneko.zip",
+    "genre": "[ProgressiveSwing]",
+    "bpm": "220"
+  },
+  {
+    "level": 6,
     "title": "時架け [我]",
     "artist": "Is-m",
     "comment": "★★5",
@@ -3950,17 +3928,6 @@
   },
   {
     "level": 7,
-    "title": "黒猫円舞曲 [Heine14]",
-    "artist": "tarolabo#obj.e",
-    "comment": "推定 12.75",
-    "md5": "9e7a50b14f605768b9bc1c086b23d162",
-    "sha256": "6296251bf3e55b5125eecb36084ad7dd2d5031bb17ce2f05e32a96e6c7e66ab2",
-    "url_diff": "http://dpbms.at-ninja.jp/hokan/[ravelll]kuroneko.zip",
-    "genre": "[ProgressiveSwing]",
-    "bpm": "220"
-  },
-  {
-    "level": 7,
     "title": "東の国のFLYING PAPARAZZI！ [DP 無茶THER]",
     "artist": "樋奈月みつ",
     "comment": "★★6",
@@ -4266,6 +4233,17 @@
     "url_diff": "http://www.geocities.jp/uccdpbms/index.html",
     "genre": "ENERGETIC TRANCE",
     "bpm": "150"
+  },
+  {
+    "level": 9,
+    "title": "Cryonix[Luma14]",
+    "artist": "sky_delta",
+    "comment": "",
+    "md5": "3757e1282658fde66522623177473815",
+    "sha256": "9e8c47a873b704c2164628c619a6c7041ccf41433f9d80d77ee88a6fbc87f0a8",
+    "url_diff": "",
+    "genre": "(Diversified Hardcore)",
+    "bpm": "184"
   },
   {
     "level": 9,
