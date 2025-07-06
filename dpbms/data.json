@@ -902,6 +902,28 @@
     "bpm": "128"
   },
   {
+    "level": 0,
+    "title": "ClowN CrowN [DP HELL]",
+    "artist": "daisan / object by meteor*",
+    "comment": "",
+    "md5": "2ea9c9eef4389683c2d02c63f69b2ce4",
+    "sha256": "35795760ac7bd268f0ed54905c3e325666c3f261f7f60b722085bfa85c001545",
+    "url_diff": "",
+    "genre": "ジャジービート",
+    "bpm": "145"
+  },
+  {
+    "level": 0,
+    "title": "X909 [A14]",
+    "artist": "xtc@clip obj:ucc",
+    "comment": "",
+    "md5": "09eb36802ca30a22d603868587731fff",
+    "sha256": "54f31c3cca85ae1d1eede220760e22e5c1adc863995a1fa2e4b0cb35eaccec23",
+    "url_diff": "",
+    "genre": "SCHRANZ",
+    "bpm": "160"
+  },
+  {
     "level": 1,
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P A ]",
     "artist": "- 4 5 obj:肴",
@@ -1340,6 +1362,61 @@
     "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
     "genre": "NIGHT HOUSE",
     "bpm": "128"
+  },
+  {
+    "level": 1,
+    "title": "night starter DP Another+",
+    "artist": "ken",
+    "comment": "",
+    "md5": "1dd813c720758ba91a42433cdac4dde1",
+    "sha256": "eafa49fd9a6e1ed4a9d239eb298c880df1ce80044c73e0ebcc4c888004395d0b",
+    "url_diff": "",
+    "genre": "Digi rock",
+    "bpm": "149"
+  },
+  {
+    "level": 1,
+    "title": "白き星姫-Принцесса белая звезда-[CHALLENGER]",
+    "artist": "おみー obj:kuro",
+    "comment": "",
+    "md5": "7a05b64bd8707b6ad9dab486f363ce17",
+    "sha256": "e51e01354d9e9a750fcc5084195543b4b482b811dd62261b52f0457ee7e6e0aa",
+    "url_diff": "",
+    "genre": "INTELLIGENCE TRANCE",
+    "bpm": "155"
+  },
+  {
+    "level": 1,
+    "title": "J2U(crazy remix)[DP INSANE]",
+    "artist": "しろ / whenya",
+    "comment": "",
+    "md5": "205d3d5f4dfed426cb575eedbfadff1a",
+    "sha256": "9500edd7db9c1647b3b9326f6e4eeb3b46f8283c23a6bc65ee7d701bf87d1794",
+    "url_diff": "",
+    "genre": "j-euro",
+    "bpm": "158"
+  },
+  {
+    "level": 1,
+    "title": "VY Canis Majoris [Rustin's DP Hyper]",
+    "artist": "戒斗 Rustin",
+    "comment": "",
+    "md5": "38a75166c1ea363fd0f2f521dba979d6",
+    "sha256": "c2dadbf5807129dfc8f8d8b3fd63c538d379e8b6bbf34ed86a3d7d6ee57f4e15",
+    "url_diff": "",
+    "genre": "プラネットランス",
+    "bpm": "158"
+  },
+  {
+    "level": 1,
+    "title": "AXION [Emperor]",
+    "artist": "Magic Mash Man / New Genuine Magicial Girl / obj:ucc",
+    "comment": "",
+    "md5": "7aae43c80525dce07666f38b8dc993bd",
+    "sha256": "278a5b6d0920d5fadfd7e24a3f52fcd98255d6a78318a195b76b955350366c97",
+    "url_diff": "",
+    "genre": "Chaos fantasia",
+    "bpm": "160"
   },
   {
     "level": 2,
@@ -4114,6 +4191,17 @@
     "bpm": "168"
   },
   {
+    "level": 8,
+    "title": "My favorite shoes",
+    "artist": "Arranged by Y.W",
+    "comment": "★★7",
+    "md5": "311e7143764ca5997aa07c210eb83bea",
+    "sha256": "3da52211f31c74f4f26804075aef8d1b0e2a32eeec2600a1474ba5dd19269955",
+    "url_diff": "",
+    "genre": "HAPPY SYMPHONY /// 14KEYS CATASTROPHE LN",
+    "bpm": "170"
+  },
+  {
     "level": 9,
     "title": "-+ (dpkey)",
     "artist": "daisan",
@@ -4244,17 +4332,6 @@
     "url_diff": "http://www.geocities.jp/uccdpbms/index.html",
     "genre": "8bit mix",
     "bpm": "168"
-  },
-  {
-    "level": 9,
-    "title": "My favorite shoes",
-    "artist": "Arranged by Y.W",
-    "comment": "★★7",
-    "md5": "311e7143764ca5997aa07c210eb83bea",
-    "sha256": "3da52211f31c74f4f26804075aef8d1b0e2a32eeec2600a1474ba5dd19269955",
-    "url_diff": "",
-    "genre": "HAPPY SYMPHONY /// 14KEYS CATASTROPHE LN",
-    "bpm": "170"
   },
   {
     "level": 9,
@@ -4464,17 +4541,6 @@
     "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
     "genre": "ゲルテナアートコア",
     "bpm": "188"
-  },
-  {
-    "level": 9,
-    "title": "Cryonix[Luma14]",
-    "artist": "sky_delta",
-    "comment": "",
-    "md5": "3757e1282658fde66522623177473815",
-    "sha256": "9e8c47a873b704c2164628c619a6c7041ccf41433f9d80d77ee88a6fbc87f0a8",
-    "url_diff": "",
-    "genre": "(Diversified Hardcore)",
-    "bpm": "184"
   },
   {
     "level": 10,
@@ -4706,6 +4772,17 @@
     "url_diff": "https://ux.getuploader.com/dpbms/download/869",
     "genre": "Lyrical D'n'B",
     "bpm": "175"
+  },
+  {
+    "level": 10,
+    "title": "Cryonix[Luma14]",
+    "artist": "sky_delta",
+    "comment": "",
+    "md5": "3757e1282658fde66522623177473815",
+    "sha256": "9e8c47a873b704c2164628c619a6c7041ccf41433f9d80d77ee88a6fbc87f0a8",
+    "url_diff": "",
+    "genre": "(Diversified Hardcore)",
+    "bpm": "184"
   },
   {
     "level": 11,
