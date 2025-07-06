@@ -1364,28 +1364,6 @@
     "bpm": "141"
   },
   {
-    "level": 1,
-    "title": "last:wish [DP CHALLENGER]",
-    "artist": "かゆき obj:kuro",
-    "comment": "",
-    "md5": "d24dd7ba8601e86108306f263a92be5e",
-    "sha256": "c0b02715970dc91c2814a7be43000a19cd5a0f1b479e8186b4a18655627eb2ff",
-    "url_diff": "",
-    "genre": "PROGRESSIVE FUSION",
-    "bpm": "134"
-  },
-  {
-    "level": 1,
-    "title": "M31-BMS EDIT- Galaxy",
-    "artist": "CHAN obj:Lilium",
-    "comment": "★11",
-    "md5": "473992b28238d9c318561322c8ed7b9f",
-    "sha256": "ce6aea8a7114ad81e2ec21d64331469031e3b0518ce3d89b28aab59f72f33ccc",
-    "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
-    "genre": "NIGHT HOUSE",
-    "bpm": "128"
-  },
-  {
     "level": 2,
     "title": "Angel dust",
     "artist": "LV.4+-  by Spelma",
@@ -4750,17 +4728,6 @@
     "url_diff": "https://ux.getuploader.com/dpbms/download/869",
     "genre": "Lyrical D'n'B",
     "bpm": "175"
-  },
-  {
-    "level": 10,
-    "title": "Cryonix[Luma14]",
-    "artist": "sky_delta",
-    "comment": "",
-    "md5": "3757e1282658fde66522623177473815",
-    "sha256": "9e8c47a873b704c2164628c619a6c7041ccf41433f9d80d77ee88a6fbc87f0a8",
-    "url_diff": "",
-    "genre": "(Diversified Hardcore)",
-    "bpm": "184"
   },
   {
     "level": 11,
