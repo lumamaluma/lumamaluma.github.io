@@ -836,6 +836,17 @@
     "bpm": "193"
   },
   {
+    "level": 0,
+    "title": "ホーリーサンバランド [ダブル鯖味噌]",
+    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH- obj:けろりん",
+    "comment": "★10",
+    "md5": "7015720b8643d92ad6008a26d07e50b5",
+    "sha256": "73bfc6a9c5f74ce810f8825c48217274bb70883edcc94b83a0bd4b6e52c93a5e",
+    "url_diff": "http://favo.kitchen/bms/",
+    "genre": "ゆったり系アンセムトランス",
+    "bpm": "150"
+  },
+  {
     "level": 1,
     "title": "* Crow Solace * [DPA]",
     "artist": "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
@@ -1296,17 +1307,6 @@
     "url_diff": "http://dpbms.at-ninja.jp/",
     "genre": "battle concerto",
     "bpm": "175"
-  },
-  {
-    "level": 1,
-    "title": "ホーリーサンバランド [ダブル鯖味噌]",
-    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH- obj:けろりん",
-    "comment": "推定 11.25",
-    "md5": "7015720b8643d92ad6008a26d07e50b5",
-    "sha256": "73bfc6a9c5f74ce810f8825c48217274bb70883edcc94b83a0bd4b6e52c93a5e",
-    "url_diff": "http://favo.kitchen/bms/",
-    "genre": "ゆったり系アンセムトランス",
-    "bpm": "150"
   },
   {
     "level": 1,
