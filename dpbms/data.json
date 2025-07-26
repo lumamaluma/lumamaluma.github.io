@@ -858,6 +858,17 @@
     "bpm": "193"
   },
   {
+    "level": 0,
+    "title": "moon spark vortex [CH14]",
+    "artist": "Frosh obj:ucc",
+    "comment": "one hand",
+    "md5": "119343110f1e12c6e754f3ce334c9488",
+    "sha256": "9ae822027753994ccacb5bd05fc61b79dc6e4cf08ee4fb9d607c62d71b972a4e",
+    "url_diff": "",
+    "genre": "フロシュトランス",
+    "bpm": "135"
+  },
+  {
     "level": 1,
     "title": "* Crow Solace * [DPA]",
     "artist": "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
@@ -1395,6 +1406,61 @@
     "url_diff": "",
     "genre": "Oriental Dance Music",
     "bpm": "100"
+  },
+  {
+    "level": 1,
+    "title": "Busy Factory [DP INSANE]",
+    "artist": "+ / movie:sgvc",
+    "comment": "",
+    "md5": "166b5e08776e9772181af7d7bcd996d6",
+    "sha256": "aa18fb10f04a7d9d6af7fbc90d086211f23b19115d03b6d53c421fabd3009fae",
+    "url_diff": "",
+    "genre": "Tech Electro",
+    "bpm": "144"
+  },
+  {
+    "level": 1,
+    "title": "Canon  (blazing summer mix)  [S]",
+    "artist": "上杉うた with 星明",
+    "comment": "double stairs, chord",
+    "md5": "d7671d14a928d1893b5c4a815ed37d3a",
+    "sha256": "83d5f054bf7c683e57ca66c9517d0d8679c6a2d93eb3eb93a26e53af17ac6970",
+    "url_diff": "",
+    "genre": "trance pop",
+    "bpm": "145"
+  },
+  {
+    "level": 1,
+    "title": "PuppyMill [CH14]",
+    "artist": "マキナ obj:ucc",
+    "comment": "",
+    "md5": "85d9563ff6fa43d6c39e0c1128a79b6e",
+    "sha256": "18b9cfa1faaf7ecbc1a4e6a8629e57a4b12b24e1baa6f8c41a6fd60ca43c233c",
+    "url_diff": "",
+    "genre": "techno",
+    "bpm": "145"
+  },
+  {
+    "level": 1,
+    "title": "Burn",
+    "artist": "NceS",
+    "comment": "chord",
+    "md5": "5ae89fa732113cc739d4ab468c0b2504",
+    "sha256": "3a1ad2452b180ae03d31aef73c3eba2325dbad2f09f311e407c7a605f953072e",
+    "url_diff": "",
+    "genre": "Euphoric Hardstyle",
+    "bpm": "148"
+  },
+  {
+    "level": 1,
+    "title": "Cable boy [DP RuNRuN]",
+    "artist": "oxygen(obj.WAS)",
+    "comment": "chord",
+    "md5": "3d0d4394a0fcf3dbdcdd05012fc29d91",
+    "sha256": "0753de2606e5307012d37f394ce013d545bbd05c3edef5997791001e391e94fd",
+    "url_diff": "",
+    "genre": "pico pop",
+    "bpm": "138"
   },
   {
     "level": 2,
@@ -2068,6 +2134,50 @@
     "bpm": "191"
   },
   {
+    "level": 2,
+    "title": "A-chasing-Y",
+    "artist": "Sakamiya feat.mirina",
+    "comment": "",
+    "md5": "b3b9364b9175f8198e9c725ec107a873",
+    "sha256": "26b540b63425d43707b4620ab10b9dd672f8207ec5b1d1e090b892213fdfab35",
+    "url_diff": "",
+    "genre": "Digital-J-Pop",
+    "bpm": "135"
+  },
+  {
+    "level": 2,
+    "title": "Astronomical Twilight [DP CHALLENGER]",
+    "artist": "anubasu-anubasu/6UT3/SHU10/U-hey/Lafale/CELLON./Kankitsu obj:kuro",
+    "comment": "",
+    "md5": "c730ff84b597c2b0905213062cd222d3",
+    "sha256": "115d9106d6a3ad821c5b5cc2399d0039a61c95e57858c8a7f6055d339929aab3",
+    "url_diff": "",
+    "genre": "Rotational Trance",
+    "bpm": "148"
+  },
+  {
+    "level": 2,
+    "title": "the lost dedicated [dpkey]",
+    "artist": "obj:key",
+    "comment": "",
+    "md5": "e89688dd1b51502a9706447f8ab7f87c",
+    "sha256": "7086efe148a25f9672dc7896717729e3d973b2eebe5ba7b25ca73a878e14e041",
+    "url_diff": "",
+    "genre": "hi-nrg / trance",
+    "bpm": "134"
+  },
+  {
+    "level": 3,
+    "title": "Chatblanc",
+    "artist": "roop",
+    "comment": "last difficult",
+    "md5": "f0df7d880c593fdeb2566c4de9c13e08",
+    "sha256": "724d846f25c67adf73d6630ec08fde40c7350472ad59d204ab0f8e17e3c9b889",
+    "url_diff": "",
+    "genre": "HOUSE",
+    "bpm": "126"
+  },
+  {
     "level": 4,
     "title": "新 漢江水打令 [新COVID-19祭り/ DP譜面]",
     "artist": "Sound piercer feat.ΣX / Limite mov.Ratif",
@@ -2673,6 +2783,17 @@
     "bpm": "162"
   },
   {
+    "level": 4,
+    "title": "Fortress",
+    "artist": "たこやき / Obj:JHS",
+    "comment": "last difficult",
+    "md5": "7d30b95a483a26ae6c91e8be096817eb",
+    "sha256": "4847886795cd8dc3ebce5ff65354d1437522b4c69d4befb8c6f632f39e5a941b",
+    "url_diff": "",
+    "genre": "BIGROOM TRANCE",
+    "bpm": "140"
+  },
+  {
     "level": 5,
     "title": "44river [neptune]",
     "artist": "-45",
@@ -3210,6 +3331,28 @@
     "url_diff": "http://www.scn-net.ne.jp/~estine/",
     "genre": "東方妖々夢",
     "bpm": "143"
+  },
+  {
+    "level": 5,
+    "title": "Kaiden Aura",
+    "artist": "yukitani / HYOUTAN / Symphonian",
+    "comment": "katate, last difficult",
+    "md5": "c9dc766163ed14cba58f49f3ff53212c",
+    "sha256": "915de92be7e6197250816bea65d2b2ff9f0ddbcda4e2d06943c88be8e5799722",
+    "url_diff": "",
+    "genre": "Nerd Mixture",
+    "bpm": "145"
+  },
+  {
+    "level": 5,
+    "title": "桜華月 [鷹の爪14]",
+    "artist": "AKITO　obj:nBel",
+    "comment": "gachi",
+    "md5": "63af80ef9e56b2fe445ec25e20293a98",
+    "sha256": "ef523fc440c65f87d7659096cab8d01f6f4e1a5d42c761f5d145ea1741521e1a",
+    "url_diff": "",
+    "genre": "JP-SPIRITUAL POP",
+    "bpm": "138"
   },
   {
     "level": 6,
