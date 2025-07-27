@@ -869,6 +869,50 @@
     "bpm": "135"
   },
   {
+    "level": 0,
+    "title": "- harmonics - [DP CHALLENGER]",
+    "artist": "L-Line obj:kuro",
+    "comment": "",
+    "md5": "4553c2176a27aa25b21433db65dda410",
+    "sha256": "1b6fc1e4c934a263c1b8467c9da5ed421239c48079169c47977d9fd384eb5500",
+    "url_diff": "",
+    "genre": "HARMONICS",
+    "bpm": "152"
+  },
+  {
+    "level": 0,
+    "title": "DENGEKI Tube [VerA]",
+    "artist": "BACO",
+    "comment": "",
+    "md5": "c01fbbc122e02d1db0967efa44b2d2a6",
+    "sha256": "6a460cd49cf5cf73bd778573f435e9a43f304ccd3988ea31b74f097687393882",
+    "url_diff": "",
+    "genre": "ELECTROSHOCK",
+    "bpm": "155"
+  },
+  {
+    "level": 0,
+    "title": "DIFINITION OF INSANITY   [VerA]",
+    "artist": "H.U.T GiGAR  obj:右手が恋人",
+    "comment": "illegal sample",
+    "md5": "5f64c1502f01205c4879bc30e21bd138",
+    "sha256": "28a752db1b1a244fa962456fc7e9e80b0c3f4528717f9a9286235559f51a665b",
+    "url_diff": "",
+    "genre": "SCHRANZ",
+    "bpm": "156"
+  },
+  {
+    "level": 0,
+    "title": "scrapEdge",
+    "artist": "yanagi",
+    "comment": "stairs",
+    "md5": "9971e807908ac6b41b0356711d501606",
+    "sha256": "df525b40b950596aa285954ca44a8b180a08323989fb175165305d9c00cd20ce",
+    "url_diff": "",
+    "genre": "Eurobeat",
+    "bpm": "160"
+  },
+  {
     "level": 1,
     "title": "* Crow Solace * [DPA]",
     "artist": "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
@@ -1461,6 +1505,61 @@
     "url_diff": "",
     "genre": "pico pop",
     "bpm": "138"
+  },
+  {
+    "level": 1,
+    "title": "DRAGONLADY (Bittersweet)",
+    "artist": "Nankumo / BGA：Cube3 / obj：Hersh",
+    "comment": "double stairs",
+    "md5": "080a25a569f4c6a76a9c2892a4acdf80",
+    "sha256": "1e0c7b7b81187fc8618e0f3ded78904f8c6733bc063bc9a20a7ce05f1941bd29",
+    "url_diff": "",
+    "genre": "HAPPY",
+    "bpm": "150"
+  },
+  {
+    "level": 1,
+    "title": "AcceptAdvent-Border of Life-(乱れ咲き StD)",
+    "artist": "sun3 ed@PEN",
+    "comment": "",
+    "md5": "c29e812dbe772abb8375241879aa7939",
+    "sha256": "a63b4638fef26d4e82f72d7e23be0dfb311d8480ae15beac5fb73382e83d2e96",
+    "url_diff": "",
+    "genre": "YUYUSSANCE",
+    "bpm": "154"
+  },
+  {
+    "level": 1,
+    "title": "Cynic [度胸兄弟]",
+    "artist": "6yen / G / obj.LetsOTL",
+    "comment": "minijacks",
+    "md5": "a0e0552a5abf1a390f33ee1c3a63e974",
+    "sha256": "31627666747102f21b507f8c59373fa5d19cce6ebd10cc1f059d41d414899ccd",
+    "url_diff": "",
+    "genre": "techno",
+    "bpm": "158"
+  },
+  {
+    "level": 1,
+    "title": "POST [EX14]",
+    "artist": "wonderland*material(s) obj:ucc",
+    "comment": "chords",
+    "md5": "14316f085246e06a3bd6612403f7d662",
+    "sha256": "1f16131340db5d667742ba6b4575a97ee0f8d6aff4ef2c2480d41206d4ed3640",
+    "url_diff": "",
+    "genre": "electro pop?",
+    "bpm": "160"
+  },
+  {
+    "level": 1,
+    "title": "magia [DPS]",
+    "artist": "P4koo/Thekara/obj:shou",
+    "comment": "",
+    "md5": "afdec99b84b2d459a29ec5062b446e83",
+    "sha256": "8f90c2ffe83106d3373ac69edfd45c66b3ff779893ccb98908da4132de027d41",
+    "url_diff": "",
+    "genre": "Trance",
+    "bpm": "162"
   },
   {
     "level": 2,
@@ -2167,6 +2266,28 @@
     "bpm": "134"
   },
   {
+    "level": 2,
+    "title": "Re:□☆○[14keys SparklingStar]",
+    "artist": "れおん",
+    "comment": "mini jacks",
+    "md5": "1dff3fc27c8cbd5853af6ea7818ec439",
+    "sha256": "06fe90addb6413c498aee5e41ff35113cd3c08130666016252628df2f130718c",
+    "url_diff": "",
+    "genre": "Bit Bound Pop",
+    "bpm": "150"
+  },
+  {
+    "level": 2,
+    "title": "ネクロファンタジア～LifeZero～ [EX14]",
+    "artist": "CrossGear obj:ucc",
+    "comment": "double stairs",
+    "md5": "39b06bfb5a9cae2f8597c7e530ba2d57",
+    "sha256": "b140270d258bcb2b546872b43a94acaca019b1fcd16207e765e05035445e7e98",
+    "url_diff": "",
+    "genre": "人妖の境界",
+    "bpm": "150"
+  },
+  {
     "level": 3,
     "title": "Chatblanc",
     "artist": "roop",
@@ -2792,6 +2913,17 @@
     "url_diff": "",
     "genre": "BIGROOM TRANCE",
     "bpm": "140"
+  },
+  {
+    "level": 4,
+    "title": "Fracsynapse [14Key ANOTHER]",
+    "artist": "syrela //obj:MIST",
+    "comment": "double stairs",
+    "md5": "ed41009265ea08a572192681f9d34eda",
+    "sha256": "496549768939d094195b520b6ad1f408120e1c03014edd048750905736e03041",
+    "url_diff": "",
+    "genre": "Hi-tech Dance",
+    "bpm": "160"
   },
   {
     "level": 5,
@@ -5707,5 +5839,16 @@
     "url_diff": "http://www015.upp.so-net.ne.jp/deep_throat/",
     "genre": "FULL SC",
     "bpm": "150"
+  },
+  {
+    "level": "?",
+    "title": "clutch [Z.O.T]",
+    "artist": "ルゼ / obj:火尭　火田",
+    "comment": "scratch",
+    "md5": "df336670bd5ad7e40ad0a0c30f8d96d7",
+    "sha256": "cf58c711817e7ea8938ec4bc01ef2bee35b802b5b5dc38c857074b5a5328ac1e",
+    "url_diff": "",
+    "genre": "ギアブレイクス",
+    "bpm": "160"
   }
 ]
