@@ -2541,7 +2541,7 @@
     "bpm": "134"
   },
   {
-    "level": 3,
+    "level": 4,
     "title": "Blooming [shining smile]",
     "artist": "Trish / obj:kuro",
     "comment": "",
@@ -2651,10 +2651,10 @@
     "bpm": "152"
   },
   {
-    "level": 3,
+    "level": 4,
     "title": "RAY",
     "artist": "MILK obj@PEN",
-    "comment": "推定 12.0",
+    "comment": "",
     "md5": "2e638f98334648c1a5ceb8225bb24fb4",
     "sha256": "84f7b4f7906118f4c3bbd2e1e122d1cc4a5d63c52a514f7986e55c9b963f8ba1",
     "url_diff": "",
@@ -2915,7 +2915,7 @@
     "bpm": "145"
   },
   {
-    "level": 4,
+    "level": 6,
     "title": "PLASTIC GIRLS (ft. Seorryang) [swing 14]",
     "artist": "wigen",
     "comment": "",
