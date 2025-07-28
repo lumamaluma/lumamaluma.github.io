@@ -913,6 +913,28 @@
     "bpm": "160"
   },
   {
+    "level": 0,
+    "title": "RiZE UP (DPBA)",
+    "artist": "TiS feat.きゃと / obj:kuro",
+    "comment": "",
+    "md5": "07ffaddaedb4b431a67e14b1d6f7e953",
+    "sha256": "802da66a1de606dae8879c2d418684504f7ecaec5d388cbfb95fbf9c1f9531fb",
+    "url_diff": "",
+    "genre": "J-EURO",
+    "bpm": "168"
+  },
+  {
+    "level": 0,
+    "title": "u gotta party",
+    "artist": "天音 / BGA:Johnny",
+    "comment": "",
+    "md5": "60f692fca2cd4ac496a69cc0e0d0bc5d",
+    "sha256": "4dbde210e6e3c0cfc3d97e29edbf20d6d71f3bc4887fdbb30496e92ba5937cb3",
+    "url_diff": "",
+    "genre": "UK HARDCORE",
+    "bpm": "170"
+  },
+  {
     "level": 1,
     "title": "* Crow Solace * [DPA]",
     "artist": "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
@@ -1560,6 +1582,39 @@
     "url_diff": "",
     "genre": "Trance",
     "bpm": "162"
+  },
+  {
+    "level": 1,
+    "title": "★So SweeT LittlE HearT★[Cotten Candy]",
+    "artist": "kbwnk max / obj:Hersh",
+    "comment": "",
+    "md5": "efc1e3c8341bf392bbc91e26a9299713",
+    "sha256": "fbffd19c19b4a18a15b4472c62a4ebf32da5e031bd8bdad0850b0d95d9ca6a6e",
+    "url_diff": "",
+    "genre": "ハッピ??ップコ?ン(まにあっく)",
+    "bpm": "168"
+  },
+  {
+    "level": 1,
+    "title": "Cybenko's Theorem[DP NON'S ANother]",
+    "artist": "w_tre(obj.siyamaki)",
+    "comment": "",
+    "md5": "030323661993ecf0bc3173e540ba2c68",
+    "sha256": "ad2e8321c5908c94fec4829ac63cd2e42bff7e2c29dc52d14a862744180cf0a0",
+    "url_diff": "",
+    "genre": "シグモイドデュエット",
+    "bpm": "175"
+  },
+  {
+    "level": 1,
+    "title": "Tsukuyomi",
+    "artist": "Lime obj:kuro",
+    "comment": "",
+    "md5": "f7c7868cf97ddb5c9b1523ed7486f12d",
+    "sha256": "51a997332dd17d2e5bf99beb7545dd6e92f573416cae2a5b2f86f2c821bbf108",
+    "url_diff": "",
+    "genre": "Dramatical",
+    "bpm": "176"
   },
   {
     "level": 2,
@@ -2288,6 +2343,28 @@
     "bpm": "150"
   },
   {
+    "level": 2,
+    "title": "driving blare [A14]",
+    "artist": "unlimited player(s) obj:ucc",
+    "comment": "",
+    "md5": "9f542b8802bf8d1ce01773f358b6b1f5",
+    "sha256": "1e1abd5d5227c4dbb5935a3d43678ebbaae120e2cdcc2aa284934919ba454214",
+    "url_diff": "",
+    "genre": "JAZZSTEP",
+    "bpm": "172"
+  },
+  {
+    "level": 2,
+    "title": "Lyrith -迷宮リリス-[DP CHALLENGER]",
+    "artist": "ユメミド obj:kuro",
+    "comment": "",
+    "md5": "8edb2483fe9c782fcf224a6e01dc031e",
+    "sha256": "7ca137a52a312da5654b14e7f0f8f2ee6a7f30c2ea8665683ae279f85f9d23d1",
+    "url_diff": "",
+    "genre": "IRON MAIDEN",
+    "bpm": "177"
+  },
+  {
     "level": 3,
     "title": "Chatblanc",
     "artist": "roop",
@@ -2297,6 +2374,39 @@
     "url_diff": "",
     "genre": "HOUSE",
     "bpm": "126"
+  },
+  {
+    "level": 3,
+    "title": "ナモナキリズム(HQ)(lydian's rhythm) (14)",
+    "artist": "Lydian / objeCraft",
+    "comment": "4 keys, capsule",
+    "md5": "2ffd2cfcf0e6af0ed1e819e2407f4eba",
+    "sha256": "5b21f70a287839ae4d19e4c1d382200b81e24a372e96f5b4f4b9201cb2491b4c",
+    "url_diff": "",
+    "genre": "Ethnic Fusion",
+    "bpm": "165"
+  },
+  {
+    "level": 3,
+    "title": "ASAKAGE",
+    "artist": "remixed celas",
+    "comment": "",
+    "md5": "72edbb2f417b1872a07d23748b6aab78",
+    "sha256": "528a3558838fe03731cab93ed9e42804179218452d00a61b137244bbc747a5e1",
+    "url_diff": "",
+    "genre": "happy hardcore",
+    "bpm": "172"
+  },
+  {
+    "level": 3,
+    "title": "Smiling",
+    "artist": "櫟井唯 / 岡野佳 obj:kuro",
+    "comment": "",
+    "md5": "3cb2745ed7325e07e6d0fc036e38a0ab",
+    "sha256": "0213b2bee7f1a18770d5b4af5504bd01118656cc2427812b30287b10327d3573",
+    "url_diff": "",
+    "genre": "kawaiicore",
+    "bpm": "172"
   },
   {
     "level": 4,
