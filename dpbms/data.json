@@ -1078,6 +1078,17 @@
     "bpm": "140"
   },
   {
+    "level": 1,
+    "title": "Elina (feat. Reislaufer)",
+    "artist": "Squar / obj:nBel",
+    "comment": "mare nectaris",
+    "md5": "200c31bc2c33e97dd707ef1e78d71dcd",
+    "sha256": "cca5bc7542dd2428e48d3c7f8a0b3c2f82deb1b1c48ee43880525593d4e1b0ac",
+    "url_diff": "",
+    "genre": "Latin Pop",
+    "bpm": "120"
+  },
+  {
     "level": 2,
     "title": "FATAL ERROR [notice 14]",
     "artist": "q/stol",
@@ -1474,7 +1485,29 @@
     "bpm": "100"
   },
   {
-    "level": 1,
+    "level": 2,
+    "title": "DIFINITION OF INSANITY [DP EXTRA]",
+    "artist": "H.U.T GiGAR obj:ucc",
+    "comment": "fxxx you",
+    "md5": "a5a356526f7d64b2d174e4cde83ff1c3",
+    "sha256": "3cb1df1c3a43553acfc6cbeab60085641b229b66766bde243e90b452d3501dfb",
+    "url_diff": "",
+    "genre": "SCHRANZ",
+    "bpm": "156"
+  },
+  {
+    "level": 4,
+    "title": "その斯くも美しき紅に (EX14)",
+    "artist": "天音",
+    "comment": "★★6",
+    "md5": "64665c0436084a659c1a3d06d2329dfd",
+    "sha256": "8a4169d7e7b791ffac18ef5d2f6f97f3b02b1aa8d55b23411454bd5d7edf0d91",
+    "url_diff": "http://www.geocities.jp/uccdpbms/index.html",
+    "genre": "Drum 'n' ambient",
+    "bpm": "155"
+  },
+  {
+    "level": 3,
     "title": "Busy Factory [DP INSANE]",
     "artist": "+ / movie:sgvc",
     "comment": "",
@@ -2915,6 +2948,17 @@
     "bpm": "145"
   },
   {
+    "level": 5,
+    "title": "Shelter",
+    "artist": "ANKAKE",
+    "comment": "23?56?",
+    "md5": "ffe21121ade9a2e33f8735cd6606e184",
+    "sha256": "685e427c83798561c22f621221d339b1f1bfa17472fe9c60e70399da2b650767",
+    "url_diff": "",
+    "genre": "instrumental",
+    "bpm": "119"
+  },
+  {
     "level": 6,
     "title": "PLASTIC GIRLS (ft. Seorryang) [swing 14]",
     "artist": "wigen",
@@ -4244,17 +4288,6 @@
     "url_diff": "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
     "genre": "ibiza trance",
     "bpm": "145"
-  },
-  {
-    "level": 7,
-    "title": "その斯くも美しき紅に (EX14)",
-    "artist": "天音",
-    "comment": "★★6",
-    "md5": "64665c0436084a659c1a3d06d2329dfd",
-    "sha256": "8a4169d7e7b791ffac18ef5d2f6f97f3b02b1aa8d55b23411454bd5d7edf0d91",
-    "url_diff": "http://www.geocities.jp/uccdpbms/index.html",
-    "genre": "Drum 'n' ambient",
-    "bpm": "155"
   },
   {
     "level": 7,
