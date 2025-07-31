@@ -726,7 +726,7 @@
     "bpm": "210"
   },
   {
-    "level": 0,
+    "level": 1,
     "title": "現実をカットアップしてみた [DPINSA.NE+]",
     "artist": "Yu^ta/obj:LLL",
     "comment": "",
@@ -1144,10 +1144,10 @@
     "bpm": "146"
   },
   {
-    "level": 1,
+    "level": 0,
     "title": "L9",
     "artist": "paraoka / Limite feat. 制限?",
-    "comment": "",
+    "comment": "double stairs",
     "md5": "59084302deb34b9bd015a1abe02d6b23",
     "sha256": "a9d2652c36e8956534853b47e2bcb16c1e832eb7886695b63dedd39138a8ffd6",
     "url_diff": "https://www.limiteknj.net/BMS",
