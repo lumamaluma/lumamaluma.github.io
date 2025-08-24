@@ -30,6 +30,33 @@
           "sha256": "f49fd6e307cb3b76bc73d8779c1d13d014faf4c569fc051dbe68b819c420c6b8"
         }
       ]
+    },
+    {"name":"Luma DP発狂九段提案 orajaゲージ","constraint":["grade_mirror"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+      "charts": [
+        {
+          "title": "1. Philadelphia Xperiment",
+          "subtitle": "[Pennsylvania]",
+          "artist": "Xacla / obj@PEN",
+          "sha256": "1e2576231c8b373cd3b9b200b17139e5b228eb8322accd4a995fa5bc2b57fdd0"
+        },
+        {
+          "title": "Is This Your Memory? ",
+          "subtitle": "[Flashes]",
+          "artist": "Cosine BGA:うまうや、Kaoru Miyazaki / obj:RaiN",
+          "sha256": "56f2951f4da8c38560d28bd57fb04bd128871ef6788f79e4969096b87558acb1"
+        },
+        {
+          "title": "星屑アポトーシス",
+          "artist": "椎名まゆり obj: shiba",
+          "sha256": "6d22868d4d659a8d573b4e41d635479e1ace27c1cfc5dbe5948bb9e4861b9de1"
+        },
+        {
+          "title": "Poison AND÷OR Affection",
+          "subtitle": "[LOVE 100%]",
+          "artist": "LeaF OBJ:Fruit",
+          "sha256": "f49fd6e307cb3b76bc73d8779c1d13d014faf4c569fc051dbe68b819c420c6b8"
+        }
+      ]
     }
   ]]
 }
