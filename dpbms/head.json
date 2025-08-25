@@ -58,58 +58,30 @@
         }
       ]
     },
-    {"name":"Luma DP発狂九段提案 ver.2","constraint":["grade_mirror", "gauge_lr2", "ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
-      "charts": [
-        {
-          "title": "Philadelphia Xperiment",
-          "subtitle": "[Pennsylvania]",
-          "artist": "Xacla / obj@PEN",
-          "sha256": "1e2576231c8b373cd3b9b200b17139e5b228eb8322accd4a995fa5bc2b57fdd0"
-        },
-        {
-          "title": "零廻転生",
-          "artist": "Jeipouju",
-          "sha256": "a8b46bf9ffe66775243ffc50df822415a5e4258a2bfc64a1e60f3b38407e5989"
-        },
-        {
-          "title": "GIRIMECHALA Reflects!",
-          "subtitle": "(Chefei)",
-          "artist": "Graviton vs kinaphar / obj:alt",
-          "sha256": "18fc8658b00339b71fde207e267d967114d9db16156ccf2279ff11e93bed210f"
-        },
-        {
-          "title": "Poison AND÷OR Affection",
-          "subtitle": "[LOVE 100%]",
-          "artist": "LeaF OBJ:Fruit",
-          "sha256": "f49fd6e307cb3b76bc73d8779c1d13d014faf4c569fc051dbe68b819c420c6b8"
-        }
+    {"name":"Luma DP発狂九段提案 ver.2",
+      "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+      "trophy": [
+        { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+        { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+      ],
+      "md5": [
+        "d3471f6236851445722f361cc3943d4c",
+        "8bdab5152325477c91215d7a675ca499",
+        "f2f65790b1ff8d4fa269826c5f3c9a1f",
+        "abcfaf4120fef2463c86c39d8ccb9a0f"
       ]
     },
-    {"name":"Luma DP発狂九段提案 ver.2 orajaゲージ","constraint":["grade_mirror", "ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
-      "charts": [
-        {
-          "title": "Philadelphia Xperiment",
-          "subtitle": "[Pennsylvania]",
-          "artist": "Xacla / obj@PEN",
-          "sha256": "1e2576231c8b373cd3b9b200b17139e5b228eb8322accd4a995fa5bc2b57fdd0"
-        },
-        {
-          "title": "零廻転生",
-          "artist": "Jeipouju",
-          "sha256": "a8b46bf9ffe66775243ffc50df822415a5e4258a2bfc64a1e60f3b38407e5989"
-        },
-        {
-          "title": "GIRIMECHALA Reflects!",
-          "subtitle": "(Chefei)",
-          "artist": "Graviton vs kinaphar / obj:alt",
-          "sha256": "18fc8658b00339b71fde207e267d967114d9db16156ccf2279ff11e93bed210f"
-        },
-        {
-          "title": "Poison AND÷OR Affection",
-          "subtitle": "[LOVE 100%]",
-          "artist": "LeaF OBJ:Fruit",
-          "sha256": "f49fd6e307cb3b76bc73d8779c1d13d014faf4c569fc051dbe68b819c420c6b8"
-        }
+    {"name":"Luma DP発狂九段提案 ver.2 orajaゲージ",
+      "constraint": ["grade_mirror", "ln"],
+      "trophy": [
+        { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+        { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+      ],
+      "md5": [
+        "d3471f6236851445722f361cc3943d4c",
+        "8bdab5152325477c91215d7a675ca499",
+        "f2f65790b1ff8d4fa269826c5f3c9a1f",
+        "abcfaf4120fef2463c86c39d8ccb9a0f"
       ]
     }
   ]]
