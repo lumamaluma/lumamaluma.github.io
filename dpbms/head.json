@@ -4,7 +4,7 @@
   "data_url" : "data.json",
   "level_order" : [0,1,2,3,4,5,6,7,8,9,10,11,"?"],
   "course":[[
-    {"name":"Luma DP発狂九段提案","constraint":["grade_mirror","gauge_lr2","ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+    {"name":"Luma DP発狂九段提案","constraint":["grade_mirror", "gauge_lr2", "ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
       "charts": [
         {
           "title": "Philadelphia Xperiment",
@@ -31,7 +31,7 @@
         }
       ]
     },
-    {"name":"Luma DP発狂九段提案 orajaゲージ","constraint":["grade_mirror","ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+    {"name":"Luma DP発狂九段提案 orajaゲージ","constraint":["grade_mirror", "ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
       "charts": [
         {
           "title": "Philadelphia Xperiment",
@@ -58,7 +58,7 @@
         }
       ]
     },
-    {"name":"Luma DP発狂九段提案 ver.2","constraint":["grade_mirror","gauge_lr2","ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+    {"name":"Luma DP発狂九段提案 ver.2","constraint":["grade_mirror", "gauge_lr2", "ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
       "charts": [
         {
           "title": "Philadelphia Xperiment",
@@ -69,13 +69,13 @@
         {
           "title": "零廻転生",
           "artist": "Jeipouju",
-          "sha256": "56f2951f4da8c38560d28bd57fb04bd128871ef6788f79e4969096b87558acb1"
+          "sha256": "a8b46bf9ffe66775243ffc50df822415a5e4258a2bfc64a1e60f3b38407e5989"
         },
         {
           "title": "GIRIMECHALA Reflects!",
           "subtitle": "(Chefei)",
           "artist": "Graviton vs kinaphar / obj:alt",
-          "sha256": "a8b46bf9ffe66775243ffc50df822415a5e4258a2bfc64a1e60f3b38407e5989"
+          "sha256": "18fc8658b00339b71fde207e267d967114d9db16156ccf2279ff11e93bed210f"
         },
         {
           "title": "Poison AND÷OR Affection",
@@ -85,7 +85,7 @@
         }
       ]
     },
-    {"name":"Luma DP発狂九段提案 ver.2 orajaゲージ","constraint":["grade_mirror","ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+    {"name":"Luma DP発狂九段提案 ver.2 orajaゲージ","constraint":["grade_mirror", "ln"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
       "charts": [
         {
           "title": "Philadelphia Xperiment",
@@ -96,13 +96,13 @@
         {
           "title": "零廻転生",
           "artist": "Jeipouju",
-          "sha256": "56f2951f4da8c38560d28bd57fb04bd128871ef6788f79e4969096b87558acb1"
+          "sha256": "a8b46bf9ffe66775243ffc50df822415a5e4258a2bfc64a1e60f3b38407e5989"
         },
         {
           "title": "GIRIMECHALA Reflects!",
           "subtitle": "(Chefei)",
           "artist": "Graviton vs kinaphar / obj:alt",
-          "sha256": "a8b46bf9ffe66775243ffc50df822415a5e4258a2bfc64a1e60f3b38407e5989"
+          "sha256": "18fc8658b00339b71fde207e267d967114d9db16156ccf2279ff11e93bed210f"
         },
         {
           "title": "Poison AND÷OR Affection",
